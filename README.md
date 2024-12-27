@@ -21,6 +21,7 @@ The uncool:
 
 What to iterate on:
 
+- In the prompt, I pass the date as the full date with UTC info. Sometimes the response converts this to a standard human date, others it shows the full time code with it. Button this up.
 - Figure out periodic discrepency in Wikipedia Response
 - Handle the response to 2024 deaths article
 - Experiment which LLM or tooling will be best for getting info about currently trending topics
