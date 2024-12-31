@@ -28,7 +28,7 @@ What to iterate on:
 
 ## trending-wikipedia-chatgpt-context-window
 
-Use `gpt-4-turbo` to figure out why top 10 articles are trending on Wikipedia
+Use `gpt-4-turbo` to figure out why top 10 articles are trending on Wikipedia by passing the entire article through the context window.
 
 The cool:
 
