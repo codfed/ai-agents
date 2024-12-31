@@ -4,7 +4,7 @@ This repository is a chronolgy of my journey into building AI Agents
 
 ## trending-wikipedia-ollama
 
-Use Ollama endpoint to get context surrounding why the top 10 articles on Wikipedia were trending
+Use Phi-3 Ollama to generate context surrounding why the top 10 articles on Wikipedia were trending
 
 The cool:
 
@@ -25,3 +25,23 @@ What to iterate on:
 - Figure out periodic discrepency in Wikipedia Response
 - Handle the response to 2024 deaths article
 - Experiment which LLM or tooling will be best for getting info about currently trending topics
+
+## trending-wikipedia-chatgpt-context-window
+
+Use `gpt-4-turbo` to figure out why top 10 articles are trending on Wikipedia
+
+The cool:
+
+- Much better results than Phi-3
+- Used tiktoken to get a feel for how many tokens each article takes
+
+The uncool:
+
+- While it accurately identified Greg Gumbel's reason for trending to be his death, the next most popular article was his brother, Bryant Gumbel's. And it couldn't give any specific answers about it.
+- Ran into Tokens Per Minute limits with my free account
+- This cost $7 to run this for two days, and neither of those made it to 10 articles before the limit was hit. So $7 for 15 articles. Or around $0.50 per article
+
+What to iterate on:
+
+- Determin the most useful part of the article to pass.... I imagine in general the updated information is either in the description or the info box. Both of which are at the very top of the raw text file.
+- Sort out the TPM errors
