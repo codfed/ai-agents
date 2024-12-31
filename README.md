@@ -39,9 +39,11 @@ The uncool:
 
 - While it accurately identified Greg Gumbel's reason for trending to be his death, the next most popular article was his brother, Bryant Gumbel's. And it couldn't give any specific answers about it.
 - Ran into Tokens Per Minute limits with my free account
-- This cost $7 to run this for two days, and neither of those made it to 10 articles before the limit was hit. So $7 for 15 articles. Or around $0.50 per article
+- This cost $3 to run this for two days, and neither of those made it to 10 articles before the limit was hit. So $3 for 15 articles. Or around $0.20 per article
 
 What to iterate on:
 
-- Determin the most useful part of the article to pass.... I imagine in general the updated information is either in the description or the info box. Both of which are at the very top of the raw text file.
+- Determine the most useful part of the article to pass.... I imagine in general the updated information is either in the description or the info box. Both of which are at the very top of the raw text file.
+  ^^^^ Did that, only passed the first 5000 characters through the context window.. Same quality of results but for $0.01 per article
 - Sort out the TPM errors
+- Play with different models
