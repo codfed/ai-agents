@@ -47,3 +47,35 @@ What to iterate on:
   ^^^^ Did that, only passed the first 5000 characters through the context window.. Same quality of results but for $0.01 per article
 - Sort out the TPM errors
 - Play with different models
+
+## trending-wikipedia-chatgpt-phoenix-tracing
+
+Want to level up my prompt evaluation game. Pretty simple to get started, immediately paid of in being able to easily see the entire prompt that was sent. It's all available to me through print statements and log files... but it is so nice to be able to easily click through each prompt to see the entire call and response.
+
+## trending-wikipedia-langchain-memory
+
+The most egregious shortcoming in the projects so far has been next-of-kin in celebrity deaths.
+
+- Greg Gumbel died, his brother Bryant Gumbel trended but said nothing of his brother's passing
+- Jeff Baena died, his widow, Aubrey Plaza began to trend. It identified Jeff's death but did not mention anything of her late husband's passing
+
+Decided to try out LangChain's memory feature for this
+
+- Run trending analysis as a chain with memory
+- Pass that memory to a new conversation chain
+- Look for relation to other articles in the memory
+
+The cool:
+
+- It worked!
+
+The uncool:
+
+- I can't get the damn thing to shut up.... I really only want one concise sentence to show
+- If it doesn't know, I want it to tell me or not reply at all
+
+What to iterate on:
+
+- Response-tuning
+- Keep responses short
+- Give tight answer if there is no identified similar articles
