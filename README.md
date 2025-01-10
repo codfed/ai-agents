@@ -79,3 +79,13 @@ What to iterate on:
 - Response-tuning
 - Keep responses short
 - Give tight answer if there is no identified similar articles
+
+## Newly Trending Wikipedia Langchain Memory
+
+Each trending Wikipedia article is accompanied by its view data for the previous 4 days. Trending articles are sticky, so as I've been working on this I'm getting tired of seeing (and paying for) the analysis of the same articles.
+
+I started this with the intention of using an LLM call determine if the articles were only trending on the most recent days. The results were not consistent or predictable. This is where coming at this as an engineer is a huge advantage... in less than the time it would have taken me to test two more prompts I had a reliable Python function that did exactly what I wanted.
+
+With this cleaner data output I'm feeling like I have the output getting closer to the realm of useful, interesting, and easily palatable!
+
+I've also updated this to keep a master log of all days it's been run for.
