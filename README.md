@@ -89,3 +89,8 @@ I started this with the intention of using an LLM call determine if the articles
 With this cleaner data output I'm feeling like I have the output getting closer to the realm of useful, interesting, and easily palatable!
 
 I've also updated this to keep a master log of all days it's been run for.
+
+What to iterate on:
+
+- Clean up the prompt output on the relation to other articles
+- Get this to run on it's own once a day, host the results as a static site
