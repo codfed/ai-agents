@@ -6,13 +6,13 @@ This repository is a chronolgy of my journey into building AI Agents
 
 It's easy to figure out what's trending on Wikipedia using the API. I wanted to know WHY. So I played around with various methods to figuring this out.
 
-The basic steps are:
+**Basic steps:**
 
 1. Get trending Wikipedia Data
 2. Use LLM prompting to determine why they are trending
 3. Export findings to easily digestible HTML list
 
-Iterations:
+**Iterations:**
 
 1. Proof of Concept using locally run Phi-3/Ollama
 2. Passing context from each article's text to ChatGPT in the prompt
@@ -22,7 +22,7 @@ Iterations:
 
 This is very accurate in determining why the article is trending due to an anniversary, movie release, or the death of a public figure and their next of kin. It has no knowledge of trending news and misses reasons for trending articles that have not been updated yet.
 
-Future iterations:
+**Future iterations:**
 
 - Get this to run automatically in AWS and save to a static hosted HTML page
 - Add context from trending news
