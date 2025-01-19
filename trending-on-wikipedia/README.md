@@ -94,3 +94,19 @@ What to iterate on:
 
 - Clean up the prompt output on the relation to other articles
 - Get this to run on it's own once a day, host the results as a static site
+
+## Newly Trending Wikipedia with news context
+
+One day, none of the new articles had any rational reason to be trending. So I incoporated a call to Google News through Serper.dev.
+
+I figured I'd have to do some looping through the results and make some more structure but on my first iteration I just passed the entire json response to ChatGPT and it worked perfectly!
+
+Takeaways:
+
+- Very pleasantly surprised with how well ChatGPT handled a prompt with raw json from the news api
+- Impressed with ChatGPT's ability to reply with an html structure
+- LangChain Memory stopped giving meaningful context....
+
+What to iterate on
+
+- Remove LangChain memory
