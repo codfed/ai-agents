@@ -1,0 +1,80 @@
+{
+    "tfa": {
+        "type": "standard",
+        "title": "2016_Irkutsk_mass_methanol_poisoning",
+        "displaytitle": "<span class=\"mw-page-title-main\">2016 Irkutsk mass methanol poisoning</span>",
+        "namespace": {
+            "id": 0,
+            "text": ""
+        },
+        "wikibase_item": "Q28037840",
+        "titles": {
+            "canonical": "2016_Irkutsk_mass_methanol_poisoning",
+            "normalized": "2016 Irkutsk mass methanol poisoning",
+            "display": "<span class=\"mw-page-title-main\">2016 Irkutsk mass methanol poisoning</span>"
+        },
+        "pageid": 52641149,
+        "lang": "en",
+        "dir": "ltr",
+        "revision": "1276440113",
+        "tid": "85b024e6-ee40-11ef-b344-8bbee3bd7ae1",
+        "timestamp": "2025-02-18T21:37:16Z",
+        "description": "Poisoning in Irkutsk, Siberia, Russia",
+        "description_source": "local",
+        "content_urls": {
+            "desktop": {
+                "page": "https://en.wikipedia.org/wiki/2016_Irkutsk_mass_methanol_poisoning",
+                "revisions": "https://en.wikipedia.org/wiki/2016_Irkutsk_mass_methanol_poisoning?action=history",
+                "edit": "https://en.wikipedia.org/wiki/2016_Irkutsk_mass_methanol_poisoning?action=edit",
+                "talk": "https://en.wikipedia.org/wiki/Talk:2016_Irkutsk_mass_methanol_poisoning"
+            },
+            "mobile": {
+                "page": "https://en.m.wikipedia.org/wiki/2016_Irkutsk_mass_methanol_poisoning",
+                "revisions": "https://en.m.wikipedia.org/wiki/Special:History/2016_Irkutsk_mass_methanol_poisoning",
+                "edit": "https://en.m.wikipedia.org/wiki/2016_Irkutsk_mass_methanol_poisoning?action=edit",
+                "talk": "https://en.m.wikipedia.org/wiki/Talk:2016_Irkutsk_mass_methanol_poisoning"
+            }
+        },
+        "extract": "In December 2016, over 70 people died of methanol poisoning in the Russian city of Irkutsk. Caused by the consumption of adulterated surrogate alcohol, it was the deadliest such incident in Russia's post-Soviet history.",
+        "extract_html": "<p>In December 2016, over 70 people died of methanol poisoning in the Russian city of Irkutsk. Caused by the consumption of adulterated surrogate alcohol, it was the deadliest such incident in Russia's post-Soviet history.</p>",
+        "normalizedtitle": "2016 Irkutsk mass methanol poisoning"
+    },
+    "image": {
+        "title": "File:Water reflection of sunset with gray and orange clouds and boats moored to the bank in Pakse Laos.jpg",
+        "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Water_reflection_of_sunset_with_gray_and_orange_clouds_and_boats_moored_to_the_bank_in_Pakse_Laos.jpg/640px-Water_reflection_of_sunset_with_gray_and_orange_clouds_and_boats_moored_to_the_bank_in_Pakse_Laos.jpg",
+            "width": 640,
+            "height": 360
+        },
+        "image": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/9/95/Water_reflection_of_sunset_with_gray_and_orange_clouds_and_boats_moored_to_the_bank_in_Pakse_Laos.jpg",
+            "width": 6421,
+            "height": 3612
+        },
+        "file_page": "https://commons.wikimedia.org/wiki/File:Water_reflection_of_sunset_with_gray_and_orange_clouds_and_boats_moored_to_the_bank_in_Pakse_Laos.jpg",
+        "artist": {
+            "html": "<a href=\"//commons.wikimedia.org/wiki/User:Basile_Morin\" title=\"User:Basile Morin\">Basile Morin</a>",
+            "text": "Basile Morin"
+        },
+        "credit": {
+            "html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "text": "Own work"
+        },
+        "license": {
+            "type": "CC BY-SA 4.0",
+            "code": "cc-by-sa-4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0"
+        },
+        "description": {
+            "html": "Water reflection of sunset with gray and orange clouds over the <i>Xe Don</i> River, and three boats moored to the bank in <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/Pakse\" title=\"en:Pakse\" class=\"extiw\">Pakse</a>, <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/Laos\" title=\"en:Laos\" class=\"extiw\">Laos</a>.",
+            "text": "Water reflection of sunset with gray and orange clouds over the Xe Don River, and three boats moored to the bank in Pakse, Laos.",
+            "lang": "en"
+        },
+        "wb_entity_id": "M141842609",
+        "structured": {
+            "captions": {
+                "en": "Water reflection of sunset with gray and orange clouds and boats moored to the bank in Pakse Laos"
+            }
+        }
+    }
+}

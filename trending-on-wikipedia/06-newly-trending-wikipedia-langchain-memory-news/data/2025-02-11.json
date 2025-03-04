@@ -1,0 +1,2020 @@
+{
+    "tfa": {
+        "type": "standard",
+        "title": "Northern_Bank_robbery",
+        "displaytitle": "<span class=\"mw-page-title-main\">Northern Bank robbery</span>",
+        "namespace": {
+            "id": 0,
+            "text": ""
+        },
+        "wikibase_item": "Q7058145",
+        "titles": {
+            "canonical": "Northern_Bank_robbery",
+            "normalized": "Northern Bank robbery",
+            "display": "<span class=\"mw-page-title-main\">Northern Bank robbery</span>"
+        },
+        "pageid": 1435939,
+        "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Northern_Bank%2C_Belfast%2C_May_2010.JPG/640px-Northern_Bank%2C_Belfast%2C_May_2010.JPG",
+            "width": 640,
+            "height": 427
+        },
+        "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Northern_Bank%2C_Belfast%2C_May_2010.JPG",
+            "width": 4272,
+            "height": 2848
+        },
+        "lang": "en",
+        "dir": "ltr",
+        "revision": "1275348847",
+        "tid": "b974ebf2-e94c-11ef-a2bd-e1fbc9f7dffc",
+        "timestamp": "2025-02-12T14:22:01Z",
+        "description": "Large bank robbery in Belfast, Northern Ireland",
+        "description_source": "local",
+        "coordinates": {
+            "lat": 54.59638889,
+            "lon": -5.93222222
+        },
+        "content_urls": {
+            "desktop": {
+                "page": "https://en.wikipedia.org/wiki/Northern_Bank_robbery",
+                "revisions": "https://en.wikipedia.org/wiki/Northern_Bank_robbery?action=history",
+                "edit": "https://en.wikipedia.org/wiki/Northern_Bank_robbery?action=edit",
+                "talk": "https://en.wikipedia.org/wiki/Talk:Northern_Bank_robbery"
+            },
+            "mobile": {
+                "page": "https://en.m.wikipedia.org/wiki/Northern_Bank_robbery",
+                "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Northern_Bank_robbery",
+                "edit": "https://en.m.wikipedia.org/wiki/Northern_Bank_robbery?action=edit",
+                "talk": "https://en.m.wikipedia.org/wiki/Talk:Northern_Bank_robbery"
+            }
+        },
+        "extract": "On 20 December 2004, £26.5 million in cash was stolen from the headquarters of Northern Bank on Donegall Square West in Belfast, Northern Ireland. Having taken family members of two bank officials hostage, an armed gang forced the workers to help them steal both used and unused pound sterling banknotes. The money was then loaded into a van and driven away in two trips. This was one of the largest bank robberies in the history of the United Kingdom.",
+        "extract_html": "<p>On 20 December 2004, £26.5 million in cash was stolen from the headquarters of Northern Bank on Donegall Square West in Belfast, Northern Ireland. Having taken family members of two bank officials hostage, an armed gang forced the workers to help them steal both used and unused pound sterling banknotes. The money was then loaded into a van and driven away in two trips. This was one of the largest bank robberies in the history of the United Kingdom.</p>",
+        "normalizedtitle": "Northern Bank robbery"
+    },
+    "onthisday": [
+        {
+            "text": "Turkish student Özgecan Aslan was murdered during a rape attempt, sparking mass demonstrations across the country after her body was discovered two days later.",
+            "pages": [
+                {
+                    "type": "standard",
+                    "title": "Murder_of_Özgecan_Aslan",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Murder of Özgecan Aslan</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q19263820",
+                    "titles": {
+                        "canonical": "Murder_of_Özgecan_Aslan",
+                        "normalized": "Murder of Özgecan Aslan",
+                        "display": "<span class=\"mw-page-title-main\">Murder of Özgecan Aslan</span>"
+                    },
+                    "pageid": 45409019,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/en/f/f5/Ozgecan_Aslan.jpg",
+                        "width": 250,
+                        "height": 170
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/en/f/f5/Ozgecan_Aslan.jpg",
+                        "width": 250,
+                        "height": 170
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1272185452",
+                    "tid": "bd4efe19-dcb6-11ef-afac-9931e0e0c184",
+                    "timestamp": "2025-01-27T13:58:09Z",
+                    "description": "2015 killing of a Turkish university student who resisted attempted rape",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Murder_of_%C3%96zgecan_Aslan",
+                            "revisions": "https://en.wikipedia.org/wiki/Murder_of_%C3%96zgecan_Aslan?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Murder_of_%C3%96zgecan_Aslan?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Murder_of_%C3%96zgecan_Aslan"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Murder_of_%C3%96zgecan_Aslan",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Murder_of_%C3%96zgecan_Aslan",
+                            "edit": "https://en.m.wikipedia.org/wiki/Murder_of_%C3%96zgecan_Aslan?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Murder_of_%C3%96zgecan_Aslan"
+                        }
+                    },
+                    "extract": "Özgecan Aslan was a Turkish university student who was murdered while resisting attempted rape on 11 February 2015 on a minibus in Mersin, Turkey. Her burnt body was discovered on 13 February. The murder was committed by minibus driver Ahmet Suphi Altındöken, and his father Necmettin Altındöken and friend Fatih Gökçe were accomplices in covering up the murder. All perpetrators were handed aggravated life sentences without the possibility of parole.",
+                    "extract_html": "<p><b>Özgecan Aslan</b> was a Turkish university student who was murdered while resisting attempted rape on 11 February 2015 on a minibus in Mersin, Turkey. Her burnt body was discovered on 13 February. The murder was committed by minibus driver Ahmet Suphi Altındöken, and his father Necmettin Altındöken and friend Fatih Gökçe were accomplices in covering up the murder. All perpetrators were handed aggravated life sentences without the possibility of parole.</p>",
+                    "normalizedtitle": "Murder of Özgecan Aslan"
+                }
+            ],
+            "year": 2015
+        },
+        {
+            "text": "Rebel East Timorese soldiers invaded the homes of President José Ramos-Horta and Prime Minister Xanana Gusmão, seriously wounding the former.",
+            "pages": [
+                {
+                    "type": "standard",
+                    "title": "2008_East_Timorese_assassination_attempts",
+                    "displaytitle": "<span class=\"mw-page-title-main\">2008 East Timorese assassination attempts</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q757980",
+                    "titles": {
+                        "canonical": "2008_East_Timorese_assassination_attempts",
+                        "normalized": "2008 East Timorese assassination attempts",
+                        "display": "<span class=\"mw-page-title-main\">2008 East Timorese assassination attempts</span>"
+                    },
+                    "pageid": 15701066,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ramos-Horta.png/320px-Ramos-Horta.png",
+                        "width": 320,
+                        "height": 240
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Ramos-Horta.png",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1272175234",
+                    "tid": "4910611a-dcae-11ef-9730-623b091cd736",
+                    "timestamp": "2025-01-27T12:57:38Z",
+                    "description": "Rebel shooting of the President and Prime Minister",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/2008_East_Timorese_assassination_attempts",
+                            "revisions": "https://en.wikipedia.org/wiki/2008_East_Timorese_assassination_attempts?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/2008_East_Timorese_assassination_attempts?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:2008_East_Timorese_assassination_attempts"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/2008_East_Timorese_assassination_attempts",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/2008_East_Timorese_assassination_attempts",
+                            "edit": "https://en.m.wikipedia.org/wiki/2008_East_Timorese_assassination_attempts?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:2008_East_Timorese_assassination_attempts"
+                        }
+                    },
+                    "extract": "Rebel soldiers of the Timor Leste Defence Force invaded the homes of the President and Prime Minister of East Timor on 11 February 2008, leading to the shooting and serious wounding of President José Ramos-Horta and the shooting up of the car of Prime Minister Xanana Gusmão. Two rebel soldiers, including leader Alfredo Reinado, were shot dead by presidential security forces. Reinado had deserted the military in 2006 along with 600 others after complaining of regional discrimination in promotions, sparking the 2006 East Timorese crisis. The attacks have been variously interpreted as attempted assassinations, attempted kidnappings and an attempted coup d'état. The rebels' intentions remain unknown.",
+                    "extract_html": "<p>Rebel soldiers of the Timor Leste Defence Force invaded the homes of the President and Prime Minister of East Timor on 11 February 2008, leading to the shooting and serious wounding of President José Ramos-Horta and the shooting up of the car of Prime Minister Xanana Gusmão. Two rebel soldiers, including leader Alfredo Reinado, were shot dead by presidential security forces. Reinado had deserted the military in 2006 along with 600 others after complaining of regional discrimination in promotions, sparking the 2006 East Timorese crisis. The attacks have been variously interpreted as attempted assassinations, attempted kidnappings and an attempted coup d'état. The rebels' intentions remain unknown.</p>",
+                    "normalizedtitle": "2008 East Timorese assassination attempts"
+                },
+                {
+                    "type": "standard",
+                    "title": "José_Ramos-Horta",
+                    "displaytitle": "<span class=\"mw-page-title-main\">José Ramos-Horta</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q11665",
+                    "titles": {
+                        "canonical": "José_Ramos-Horta",
+                        "normalized": "José Ramos-Horta",
+                        "display": "<span class=\"mw-page-title-main\">José Ramos-Horta</span>"
+                    },
+                    "pageid": 49030,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jos%C3%A9_Ramos-Horta_%282023%29.jpg/320px-Jos%C3%A9_Ramos-Horta_%282023%29.jpg",
+                        "width": 320,
+                        "height": 449
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Jos%C3%A9_Ramos-Horta_%282023%29.jpg",
+                        "width": 953,
+                        "height": 1338
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1275368107",
+                    "tid": "aae3f71d-e95f-11ef-acd5-f807edc0c3cd",
+                    "timestamp": "2025-02-12T16:37:37Z",
+                    "description": "President of East Timor since 2022",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ramos-Horta",
+                            "revisions": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ramos-Horta?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ramos-Horta?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Jos%C3%A9_Ramos-Horta"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Jos%C3%A9_Ramos-Horta",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Jos%C3%A9_Ramos-Horta",
+                            "edit": "https://en.m.wikipedia.org/wiki/Jos%C3%A9_Ramos-Horta?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Jos%C3%A9_Ramos-Horta"
+                        }
+                    },
+                    "extract": "José Manuel Ramos-Horta GCL GColIH is an East Timorese politician. He has been the president of East Timor since 2022, having previously also held the position from 20 May 2007 to 20 May 2012. Previously he was Minister of Foreign Affairs from 2002 to 2006 and Prime Minister from 2006 to 2007. He was a co-recipient of the 1996 Nobel Peace Prize, along with Carlos Filipe Ximenes Belo, for working \"towards a just and peaceful solution to the conflict in East Timor\".",
+                    "extract_html": "<p><b>José Manuel Ramos-Horta</b> GCL GColIH is an East Timorese politician. He has been the president of East Timor since 2022, having previously also held the position from 20 May 2007 to 20 May 2012. Previously he was Minister of Foreign Affairs from 2002 to 2006 and Prime Minister from 2006 to 2007. He was a co-recipient of the 1996 Nobel Peace Prize, along with Carlos Filipe Ximenes Belo, for working \"towards a just and peaceful solution to the conflict in East Timor\".</p>",
+                    "normalizedtitle": "José Ramos-Horta"
+                },
+                {
+                    "type": "standard",
+                    "title": "Xanana_Gusmão",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Xanana Gusmão</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q11509",
+                    "titles": {
+                        "canonical": "Xanana_Gusmão",
+                        "normalized": "Xanana Gusmão",
+                        "display": "<span class=\"mw-page-title-main\">Xanana Gusmão</span>"
+                    },
+                    "pageid": 55986,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PM_Kishida_meeting_with_PM_Gusm%C3%A3o_of_Timor-Leste_%28cropped%29.jpg/320px-PM_Kishida_meeting_with_PM_Gusm%C3%A3o_of_Timor-Leste_%28cropped%29.jpg",
+                        "width": 320,
+                        "height": 465
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/a/ab/PM_Kishida_meeting_with_PM_Gusm%C3%A3o_of_Timor-Leste_%28cropped%29.jpg",
+                        "width": 545,
+                        "height": 792
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1273480362",
+                    "tid": "65f5d506-e16f-11ef-872e-50a522573f9e",
+                    "timestamp": "2025-02-02T14:10:04Z",
+                    "description": "3rd president and 5th prime minister of East Timor",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Xanana_Gusm%C3%A3o",
+                            "revisions": "https://en.wikipedia.org/wiki/Xanana_Gusm%C3%A3o?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Xanana_Gusm%C3%A3o?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Xanana_Gusm%C3%A3o"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Xanana_Gusm%C3%A3o",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Xanana_Gusm%C3%A3o",
+                            "edit": "https://en.m.wikipedia.org/wiki/Xanana_Gusm%C3%A3o?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Xanana_Gusm%C3%A3o"
+                        }
+                    },
+                    "extract": "José Alexandre \"Xanana\" Gusmão is an East Timorese politician. He has served as the 6th prime minister of East Timor since 2023, previously serving in that position from 2007 to 2015. A former rebel, he also served as East Timor's first president since its re-establishment of independence, from 2002 to 2007.",
+                    "extract_html": "<p><b>José Alexandre</b> \"<b>Xanana</b>\" <b>Gusmão</b> is an East Timorese politician. He has served as the 6th prime minister of East Timor since 2023, previously serving in that position from 2007 to 2015. A former rebel, he also served as East Timor's first president since its re-establishment of independence, from 2002 to 2007.</p>",
+                    "normalizedtitle": "Xanana Gusmão"
+                }
+            ],
+            "year": 2008
+        },
+        {
+            "text": "The computer worm Anna Kournikova, which would affect millions of users worldwide, was released by a 20-year-old Dutch student.",
+            "pages": [
+                {
+                    "type": "standard",
+                    "title": "Computer_worm",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Computer worm</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q180712",
+                    "titles": {
+                        "canonical": "Computer_worm",
+                        "normalized": "Computer worm",
+                        "display": "<span class=\"mw-page-title-main\">Computer worm</span>"
+                    },
+                    "pageid": 6010,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Virus_Blaster.jpg/320px-Virus_Blaster.jpg",
+                        "width": 320,
+                        "height": 191
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Virus_Blaster.jpg",
+                        "width": 420,
+                        "height": 251
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1275127681",
+                    "tid": "0a96b9d3-e83f-11ef-9995-a8273f3f4362",
+                    "timestamp": "2025-02-11T06:11:33Z",
+                    "description": "Self-replicating malware program",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Computer_worm",
+                            "revisions": "https://en.wikipedia.org/wiki/Computer_worm?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Computer_worm?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Computer_worm"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Computer_worm",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Computer_worm",
+                            "edit": "https://en.m.wikipedia.org/wiki/Computer_worm?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Computer_worm"
+                        }
+                    },
+                    "extract": "A computer worm is a standalone malware computer program that replicates itself in order to spread to other computers. It often uses a computer network to spread itself, relying on security failures on the target computer to access it. It will use this machine as a host to scan and infect other computers. When these new worm-invaded computers are controlled, the worm will continue to scan and infect other computers using these computers as hosts, and this behaviour will continue. Computer worms use recursive methods to copy themselves without host programs and distribute themselves based on exploiting the advantages of exponential growth, thus controlling and infecting more and more computers in a short time. Worms almost always cause at least some harm to the network, even if only by consuming bandwidth, whereas viruses almost always corrupt or modify files on a targeted computer.",
+                    "extract_html": "<p>A <b>computer worm</b> is a standalone malware computer program that replicates itself in order to spread to other computers. It often uses a computer network to spread itself, relying on security failures on the target computer to access it. It will use this machine as a host to scan and infect other computers. When these new worm-invaded computers are controlled, the worm will continue to scan and infect other computers using these computers as hosts, and this behaviour will continue. Computer worms use recursive methods to copy themselves without host programs and distribute themselves based on exploiting the advantages of exponential growth, thus controlling and infecting more and more computers in a short time. Worms almost always cause at least some harm to the network, even if only by consuming bandwidth, whereas viruses almost always corrupt or modify files on a targeted computer.</p>",
+                    "normalizedtitle": "Computer worm"
+                },
+                {
+                    "type": "standard",
+                    "title": "Anna_Kournikova_(computer_virus)",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Anna Kournikova (computer virus)</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q3496143",
+                    "titles": {
+                        "canonical": "Anna_Kournikova_(computer_virus)",
+                        "normalized": "Anna Kournikova (computer virus)",
+                        "display": "<span class=\"mw-page-title-main\">Anna Kournikova (computer virus)</span>"
+                    },
+                    "pageid": 23151046,
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1275214306",
+                    "tid": "985bac46-e8aa-11ef-a1f5-76f5ac3c87b2",
+                    "timestamp": "2025-02-11T19:01:27Z",
+                    "description": "2001 computer virus inside email attachment",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Anna_Kournikova_(computer_virus)",
+                            "revisions": "https://en.wikipedia.org/wiki/Anna_Kournikova_(computer_virus)?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Anna_Kournikova_(computer_virus)?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Anna_Kournikova_(computer_virus)"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Anna_Kournikova_(computer_virus)",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Anna_Kournikova_(computer_virus)",
+                            "edit": "https://en.m.wikipedia.org/wiki/Anna_Kournikova_(computer_virus)?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Anna_Kournikova_(computer_virus)"
+                        }
+                    },
+                    "extract": "Anna Kournikova was a computer virus that spread worldwide on the Internet in February 2001. The virus program was contained in an email attachment, purportedly an image of tennis player Anna Kournikova.",
+                    "extract_html": "<p><b>Anna Kournikova</b> was a computer virus that spread worldwide on the Internet in February 2001. The virus program was contained in an email attachment, purportedly an image of tennis player Anna Kournikova.</p>",
+                    "normalizedtitle": "Anna Kournikova (computer virus)"
+                }
+            ],
+            "year": 2001
+        },
+        {
+            "text": "The Unrepresented Nations and Peoples Organization was established in The Hague to represent the interests of indigenous peoples, minorities, occupied nations, and other areas lacking international recognition.",
+            "pages": [
+                {
+                    "type": "standard",
+                    "title": "Unrepresented_Nations_and_Peoples_Organization",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Unrepresented Nations and Peoples Organization</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q215613",
+                    "titles": {
+                        "canonical": "Unrepresented_Nations_and_Peoples_Organization",
+                        "normalized": "Unrepresented Nations and Peoples Organization",
+                        "display": "<span class=\"mw-page-title-main\">Unrepresented Nations and Peoples Organization</span>"
+                    },
+                    "pageid": 82242,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_the_Unrepresented_Nations_and_Peoples_Organisation.svg/320px-Flag_of_the_Unrepresented_Nations_and_Peoples_Organisation.svg.png",
+                        "width": 320,
+                        "height": 192
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_the_Unrepresented_Nations_and_Peoples_Organisation.svg/1000px-Flag_of_the_Unrepresented_Nations_and_Peoples_Organisation.svg.png",
+                        "width": 1000,
+                        "height": 600
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1274090702",
+                    "tid": "0fc8a7f6-e3ba-11ef-b40b-259664f224e5",
+                    "timestamp": "2025-02-05T12:09:34Z",
+                    "description": "Belgium-based international organization formed in 1991",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Unrepresented_Nations_and_Peoples_Organization",
+                            "revisions": "https://en.wikipedia.org/wiki/Unrepresented_Nations_and_Peoples_Organization?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Unrepresented_Nations_and_Peoples_Organization?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Unrepresented_Nations_and_Peoples_Organization"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Unrepresented_Nations_and_Peoples_Organization",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Unrepresented_Nations_and_Peoples_Organization",
+                            "edit": "https://en.m.wikipedia.org/wiki/Unrepresented_Nations_and_Peoples_Organization?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Unrepresented_Nations_and_Peoples_Organization"
+                        }
+                    },
+                    "extract": "The Unrepresented Nations and Peoples Organization (UNPO) is an international organization established to facilitate the voices of unrepresented and marginalized nations and peoples worldwide. It was formed on 11 February 1991 at the Peace Palace in The Hague, Netherlands. Its members consist of indigenous peoples, minorities, and unrecognised or occupied territories.",
+                    "extract_html": "<p>The <b>Unrepresented Nations and Peoples Organization</b> (<b>UNPO</b>) is an international organization established to facilitate the voices of unrepresented and marginalized nations and peoples worldwide. It was formed on 11 February 1991 at the Peace Palace in The Hague, Netherlands. Its members consist of indigenous peoples, minorities, and unrecognised or occupied territories.</p>",
+                    "normalizedtitle": "Unrepresented Nations and Peoples Organization"
+                },
+                {
+                    "type": "standard",
+                    "title": "The_Hague",
+                    "displaytitle": "<span class=\"mw-page-title-main\">The Hague</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q36600",
+                    "titles": {
+                        "canonical": "The_Hague",
+                        "normalized": "The Hague",
+                        "display": "<span class=\"mw-page-title-main\">The Hague</span>"
+                    },
+                    "pageid": 30269,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/2015_0422_Plein_The_Hague.jpg/320px-2015_0422_Plein_The_Hague.jpg",
+                        "width": 320,
+                        "height": 200
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/4/49/2015_0422_Plein_The_Hague.jpg",
+                        "width": 2560,
+                        "height": 1600
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1272706737",
+                    "tid": "4cfce435-de92-11ef-8e31-2487eec576ea",
+                    "timestamp": "2025-01-29T22:42:21Z",
+                    "description": "City and municipality in the Netherlands",
+                    "description_source": "local",
+                    "coordinates": {
+                        "lat": 52.08,
+                        "lon": 4.31
+                    },
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/The_Hague",
+                            "revisions": "https://en.wikipedia.org/wiki/The_Hague?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/The_Hague?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:The_Hague"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/The_Hague",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/The_Hague",
+                            "edit": "https://en.m.wikipedia.org/wiki/The_Hague?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:The_Hague"
+                        }
+                    },
+                    "extract": "The Hague is the capital city of the South Holland province of the Netherlands. With a population of over half a million, it is the third-largest city in the Netherlands. Situated on the west coast facing the North Sea, The Hague is the country's administrative centre and its seat of government, and while Amsterdam is the official capital of the Netherlands, The Hague has been described as the country's de facto capital since the time of the Dutch Republic.",
+                    "extract_html": "<p><b>The Hague</b> is the capital city of the South Holland province of the Netherlands. With a population of over half a million, it is the third-largest city in the Netherlands. Situated on the west coast facing the North Sea, The Hague is the country's administrative centre and its seat of government, and while Amsterdam is the official capital of the Netherlands, The Hague has been described as the country's <i>de facto</i> capital since the time of the Dutch Republic.</p>",
+                    "normalizedtitle": "The Hague"
+                },
+                {
+                    "type": "standard",
+                    "title": "Indigenous_peoples",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Indigenous peoples</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q103817",
+                    "titles": {
+                        "canonical": "Indigenous_peoples",
+                        "normalized": "Indigenous peoples",
+                        "display": "<span class=\"mw-page-title-main\">Indigenous peoples</span>"
+                    },
+                    "pageid": 45281,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cakchiquel_family.JPG/320px-Cakchiquel_family.JPG",
+                        "width": 320,
+                        "height": 215
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/7/71/Cakchiquel_family.JPG",
+                        "width": 3279,
+                        "height": 2208
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1270405235",
+                    "tid": "47aea9ec-d654-11ef-b2b5-4b4fa7c54241",
+                    "timestamp": "2025-01-19T10:58:14Z",
+                    "description": "Peoples who identify as Indigenous and have a special attachment to their traditional territory",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Indigenous_peoples",
+                            "revisions": "https://en.wikipedia.org/wiki/Indigenous_peoples?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Indigenous_peoples?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Indigenous_peoples"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Indigenous_peoples",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Indigenous_peoples",
+                            "edit": "https://en.m.wikipedia.org/wiki/Indigenous_peoples?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Indigenous_peoples"
+                        }
+                    },
+                    "extract": "There is no generally accepted definition of Indigenous peoples, although in the 21st century the focus has been on self-identification, cultural difference from other groups in a state, a special relationship with their traditional territory, and an experience of subjugation and discrimination under a dominant cultural model.",
+                    "extract_html": "<p>There is no generally accepted definition of <b>Indigenous peoples</b>, although in the 21st century the focus has been on self-identification, cultural difference from other groups in a state, a special relationship with their traditional territory, and an experience of subjugation and discrimination under a dominant cultural model.</p>",
+                    "normalizedtitle": "Indigenous peoples"
+                },
+                {
+                    "type": "standard",
+                    "title": "Minority_group",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Minority group</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q30103",
+                    "titles": {
+                        "canonical": "Minority_group",
+                        "normalized": "Minority group",
+                        "display": "<span class=\"mw-page-title-main\">Minority group</span>"
+                    },
+                    "pageid": 437868,
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1270080245",
+                    "tid": "e03d28b7-d512-11ef-93fc-4828301aa094",
+                    "timestamp": "2025-01-17T20:37:32Z",
+                    "description": "Sociological/demographic category",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Minority_group",
+                            "revisions": "https://en.wikipedia.org/wiki/Minority_group?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Minority_group?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Minority_group"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Minority_group",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Minority_group",
+                            "edit": "https://en.m.wikipedia.org/wiki/Minority_group?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Minority_group"
+                        }
+                    },
+                    "extract": "The term \"minority group\" has different usages, depending on the context. According to its common usage, the term minority group can simply be understood in terms of demographic sizes within a population: i.e. a group in society with the least number of individuals, or less than half, is a \"minority\". Usually a minority group is disempowered relative to the majority, and that characteristic lends itself to different applications of the term minority.",
+                    "extract_html": "<p>The term \"<b>minority group</b>\" has different usages, depending on the context. According to its common usage, the term minority group can simply be understood in terms of demographic sizes within a population: i.e. a group in society with the least number of individuals, or less than half, is a \"minority\". Usually a minority group is disempowered relative to the majority, and that characteristic lends itself to different applications of the term minority.</p>",
+                    "normalizedtitle": "Minority group"
+                },
+                {
+                    "type": "standard",
+                    "title": "List_of_territorial_disputes",
+                    "displaytitle": "<span class=\"mw-page-title-main\">List of territorial disputes</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q913234",
+                    "titles": {
+                        "canonical": "List_of_territorial_disputes",
+                        "normalized": "List of territorial disputes",
+                        "display": "<span class=\"mw-page-title-main\">List of territorial disputes</span>"
+                    },
+                    "pageid": 3353715,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Territorial_Disputes.svg/320px-Map_of_Territorial_Disputes.svg.png",
+                        "width": 320,
+                        "height": 163
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Territorial_Disputes.svg/512px-Map_of_Territorial_Disputes.svg.png",
+                        "width": 512,
+                        "height": 260
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1275212438",
+                    "tid": "f1c2e99d-e8a8-11ef-bf0d-b27d0dcee2c0",
+                    "timestamp": "2025-02-11T18:49:38Z",
+                    "description": "",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/List_of_territorial_disputes",
+                            "revisions": "https://en.wikipedia.org/wiki/List_of_territorial_disputes?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/List_of_territorial_disputes?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:List_of_territorial_disputes"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/List_of_territorial_disputes",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/List_of_territorial_disputes",
+                            "edit": "https://en.m.wikipedia.org/wiki/List_of_territorial_disputes?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:List_of_territorial_disputes"
+                        }
+                    },
+                    "extract": "Territorial disputes have occurred throughout history, over lands around the world. Bold indicates one claimant's full control; italics indicates one or more claimants' partial control.",
+                    "extract_html": "<p>Territorial disputes have occurred throughout history, over lands around the world. <b>Bold</b> indicates one claimant's full control; <i>italics</i> indicates one or more claimants' partial control.</p>",
+                    "normalizedtitle": "List of territorial disputes"
+                }
+            ],
+            "year": 1991
+        },
+        {
+            "text": "Anti-apartheid activist Nelson Mandela, having been a political prisoner for 27 years, was released from Victor Verster Prison near Paarl, South Africa.",
+            "pages": [
+                {
+                    "type": "standard",
+                    "title": "Nelson_Mandela",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Nelson Mandela</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q8023",
+                    "titles": {
+                        "canonical": "Nelson_Mandela",
+                        "normalized": "Nelson Mandela",
+                        "display": "<span class=\"mw-page-title-main\">Nelson Mandela</span>"
+                    },
+                    "pageid": 21492751,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nelson_Mandela_1994.jpg/320px-Nelson_Mandela_1994.jpg",
+                        "width": 320,
+                        "height": 414
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/0/02/Nelson_Mandela_1994.jpg",
+                        "width": 1500,
+                        "height": 1940
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1275155638",
+                    "tid": "b228cd6e-e869-11ef-bda9-9393f38ca160",
+                    "timestamp": "2025-02-11T11:16:53Z",
+                    "description": "President of South Africa from 1994 to 1999",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Nelson_Mandela",
+                            "revisions": "https://en.wikipedia.org/wiki/Nelson_Mandela?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Nelson_Mandela?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Nelson_Mandela"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Nelson_Mandela",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Nelson_Mandela",
+                            "edit": "https://en.m.wikipedia.org/wiki/Nelson_Mandela?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Nelson_Mandela"
+                        }
+                    },
+                    "extract": "Nelson Rolihlahla Mandela was a South African anti-apartheid activist and politician who served as the first president of South Africa from 1994 to 1999. He was the country's first black head of state and the first elected in a fully representative democratic election. His government focused on dismantling the legacy of apartheid by fostering racial reconciliation. Ideologically an African nationalist and socialist, he served as the president of the African National Congress (ANC) party from 1991 to 1997.",
+                    "extract_html": "<p><b>Nelson Rolihlahla Mandela</b> was a South African anti-apartheid activist and politician who served as the first president of South Africa from 1994 to 1999. He was the country's first black head of state and the first elected in a fully representative democratic election. His government focused on dismantling the legacy of apartheid by fostering racial reconciliation. Ideologically an African nationalist and socialist, he served as the president of the African National Congress (ANC) party from 1991 to 1997.</p>",
+                    "normalizedtitle": "Nelson Mandela"
+                },
+                {
+                    "type": "standard",
+                    "title": "Drakenstein_Correctional_Centre",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Drakenstein Correctional Centre</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q5305654",
+                    "titles": {
+                        "canonical": "Drakenstein_Correctional_Centre",
+                        "normalized": "Drakenstein Correctional Centre",
+                        "display": "<span class=\"mw-page-title-main\">Drakenstein Correctional Centre</span>"
+                    },
+                    "pageid": 2392224,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Drakenstein_prison_5.jpg/320px-Drakenstein_prison_5.jpg",
+                        "width": 320,
+                        "height": 213
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Drakenstein_prison_5.jpg",
+                        "width": 4874,
+                        "height": 3249
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1191825647",
+                    "tid": "3af8679d-a391-11ee-b4ac-c41d6744fb7b",
+                    "timestamp": "2023-12-26T01:51:05Z",
+                    "description": "Prison in South Africa",
+                    "description_source": "local",
+                    "coordinates": {
+                        "lat": -33.84361111,
+                        "lon": 19.01611111
+                    },
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Drakenstein_Correctional_Centre",
+                            "revisions": "https://en.wikipedia.org/wiki/Drakenstein_Correctional_Centre?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Drakenstein_Correctional_Centre?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Drakenstein_Correctional_Centre"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Drakenstein_Correctional_Centre",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Drakenstein_Correctional_Centre",
+                            "edit": "https://en.m.wikipedia.org/wiki/Drakenstein_Correctional_Centre?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Drakenstein_Correctional_Centre"
+                        }
+                    },
+                    "extract": "Drakenstein Correctional Centre is a low-security prison between Paarl and Franschhoek, on the R301 road 5 km from the R45 Huguenot Road, in the valley of the Dwars River in the Western Cape of South Africa. The prison is the location where Nelson Mandela spent the last part of his imprisonment for campaigning against apartheid.",
+                    "extract_html": "<p><b>Drakenstein Correctional Centre</b> is a low-security prison between Paarl and Franschhoek, on the R301 road 5 km from the R45 Huguenot Road, in the valley of the Dwars River in the Western Cape of South Africa. The prison is the location where Nelson Mandela spent the last part of his imprisonment for campaigning against apartheid.</p>",
+                    "normalizedtitle": "Drakenstein Correctional Centre"
+                }
+            ],
+            "year": 1990
+        },
+        {
+            "text": "The Frente de Liberación Homosexual made their final public appearance, shortly before the group's dissolution due to political repression after the Argentine coup d'état.",
+            "pages": [
+                {
+                    "type": "standard",
+                    "title": "Frente_de_Liberación_Homosexual",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Frente de Liberación Homosexual</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q8962833",
+                    "titles": {
+                        "canonical": "Frente_de_Liberación_Homosexual",
+                        "normalized": "Frente de Liberación Homosexual",
+                        "display": "<span class=\"mw-page-title-main\">Frente de Liberación Homosexual</span>"
+                    },
+                    "pageid": 66673823,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Frente_de_Liberaci%C3%B3n_Homosexual_1972.jpg/320px-Frente_de_Liberaci%C3%B3n_Homosexual_1972.jpg",
+                        "width": 320,
+                        "height": 257
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Frente_de_Liberaci%C3%B3n_Homosexual_1972.jpg",
+                        "width": 1182,
+                        "height": 950
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1275236138",
+                    "tid": "8df6eb99-e8bd-11ef-a4f9-14285ea71085",
+                    "timestamp": "2025-02-11T21:17:10Z",
+                    "description": "Left-wing LGBT organization in Argentina (1971–1976)",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Frente_de_Liberaci%C3%B3n_Homosexual",
+                            "revisions": "https://en.wikipedia.org/wiki/Frente_de_Liberaci%C3%B3n_Homosexual?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Frente_de_Liberaci%C3%B3n_Homosexual?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Frente_de_Liberaci%C3%B3n_Homosexual"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Frente_de_Liberaci%C3%B3n_Homosexual",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Frente_de_Liberaci%C3%B3n_Homosexual",
+                            "edit": "https://en.m.wikipedia.org/wiki/Frente_de_Liberaci%C3%B3n_Homosexual?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Frente_de_Liberaci%C3%B3n_Homosexual"
+                        }
+                    },
+                    "extract": "The Frente de Liberación Homosexual was a gay rights organization in Argentina. Formed at a meeting of Nuestro Mundo in August 1971, the FLH eventually dissolved in 1976 as a result of severe repression after the 1976 Argentine coup d'état.",
+                    "extract_html": "<p>The <b>Frente de Liberación Homosexual</b> was a gay rights organization in Argentina. Formed at a meeting of Nuestro Mundo in August 1971, the FLH eventually dissolved in 1976 as a result of severe repression after the 1976 Argentine coup d'état.</p>",
+                    "normalizedtitle": "Frente de Liberación Homosexual"
+                },
+                {
+                    "type": "standard",
+                    "title": "1976_Argentine_coup_d'état",
+                    "displaytitle": "<span class=\"mw-page-title-main\">1976 Argentine coup d&#039;état</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q1048750",
+                    "titles": {
+                        "canonical": "1976_Argentine_coup_d'état",
+                        "normalized": "1976 Argentine coup d'état",
+                        "display": "<span class=\"mw-page-title-main\">1976 Argentine coup d&#039;état</span>"
+                    },
+                    "pageid": 12036108,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jorge_Rafael_Videla_Oath.PNG/320px-Jorge_Rafael_Videla_Oath.PNG",
+                        "width": 320,
+                        "height": 222
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/9/95/Jorge_Rafael_Videla_Oath.PNG",
+                        "width": 2000,
+                        "height": 1387
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1275051139",
+                    "tid": "2c198336-e7ea-11ef-88c0-8f6f309cb9af",
+                    "timestamp": "2025-02-10T20:04:02Z",
+                    "description": "March 1976 military coup d'état in Argentina",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/1976_Argentine_coup_d'%C3%A9tat",
+                            "revisions": "https://en.wikipedia.org/wiki/1976_Argentine_coup_d'%C3%A9tat?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/1976_Argentine_coup_d'%C3%A9tat?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:1976_Argentine_coup_d'%C3%A9tat"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/1976_Argentine_coup_d'%C3%A9tat",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/1976_Argentine_coup_d'%C3%A9tat",
+                            "edit": "https://en.m.wikipedia.org/wiki/1976_Argentine_coup_d'%C3%A9tat?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:1976_Argentine_coup_d'%C3%A9tat"
+                        }
+                    },
+                    "extract": "The 1976 Argentine coup d'état overthrew Isabel Perón as President of Argentina on 24 March 1976. A military junta was installed to replace her; this was headed by Lieutenant General Jorge Rafael Videla, Admiral Emilio Eduardo Massera and Brigadier-General Orlando Ramón Agosti. The political process initiated on 24 March 1976 took the official name of \"National Reorganization Process\", and the junta, although not with its original members, remained in power until the return to the democratic process on 10 December 1983. The coup was planned and executed within the framework of Operation Condor, a clandestine system of coordination between Latin American countries promoted by the United States, as part of the national security doctrine, which installed dictatorships in Latin America in order to maintain U.S. influence in those countries during the Cold War.",
+                    "extract_html": "<p>The 1976 <b>Argentine coup d'état</b> overthrew Isabel Perón as President of Argentina on 24 March 1976. A military junta was installed to replace her; this was headed by Lieutenant General Jorge Rafael Videla, Admiral Emilio Eduardo Massera and Brigadier-General Orlando Ramón Agosti. The political process initiated on 24 March 1976 took the official name of \"National Reorganization Process\", and the junta, although not with its original members, remained in power until the return to the democratic process on 10 December 1983. The coup was planned and executed within the framework of Operation Condor, a clandestine system of coordination between Latin American countries promoted by the United States, as part of the national security doctrine, which installed dictatorships in Latin America in order to maintain U.S. influence in those countries during the Cold War.</p>",
+                    "normalizedtitle": "1976 Argentine coup d'état"
+                }
+            ],
+            "year": 1976
+        },
+        {
+            "text": "The BBC aired an adaptation of a section of Czech writer Karel Čapek's play R.U.R. in the first broadcast of science fiction on television.",
+            "pages": [
+                {
+                    "type": "standard",
+                    "title": "BBC",
+                    "displaytitle": "<span class=\"mw-page-title-main\">BBC</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q9531",
+                    "titles": {
+                        "canonical": "BBC",
+                        "normalized": "BBC",
+                        "display": "<span class=\"mw-page-title-main\">BBC</span>"
+                    },
+                    "pageid": 19344654,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/London_BBC_headquarters.jpg/320px-London_BBC_headquarters.jpg",
+                        "width": 320,
+                        "height": 427
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/8/89/London_BBC_headquarters.jpg",
+                        "width": 1536,
+                        "height": 2048
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1273343199",
+                    "tid": "1ae3bbe9-e0e6-11ef-8ea9-672640992288",
+                    "timestamp": "2025-02-01T21:47:17Z",
+                    "description": "British public service broadcaster",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/BBC",
+                            "revisions": "https://en.wikipedia.org/wiki/BBC?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/BBC?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:BBC"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/BBC",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/BBC",
+                            "edit": "https://en.m.wikipedia.org/wiki/BBC?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:BBC"
+                        }
+                    },
+                    "extract": "The British Broadcasting Corporation (BBC) is a British public service broadcaster headquartered at Broadcasting House in London, England. Originally established in 1922 as the British Broadcasting Company, it evolved into its current state with its current name on New Year's Day 1927. The oldest and largest local and global broadcaster by stature and by number of employees, the BBC employs over 21,000 staff in total, of whom approximately 17,200 are in public-sector broadcasting.",
+                    "extract_html": "<p>The <b>British Broadcasting Corporation</b> (<b>BBC</b>) is a British public service broadcaster headquartered at Broadcasting House in London, England. Originally established in 1922 as the British Broadcasting Company, it evolved into its current state with its current name on New Year's Day 1927. The oldest and largest local and global broadcaster by stature and by number of employees, the BBC employs over 21,000 staff in total, of whom approximately 17,200 are in public-sector broadcasting.</p>",
+                    "normalizedtitle": "BBC"
+                },
+                {
+                    "type": "standard",
+                    "title": "Karel_Čapek",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Karel Čapek</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q155855",
+                    "titles": {
+                        "canonical": "Karel_Čapek",
+                        "normalized": "Karel Čapek",
+                        "display": "<span class=\"mw-page-title-main\">Karel Čapek</span>"
+                    },
+                    "pageid": 43469,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Karel-capek.jpg",
+                        "width": 210,
+                        "height": 299
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Karel-capek.jpg",
+                        "width": 210,
+                        "height": 299
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1261824990",
+                    "tid": "7d22a283-b519-11ef-b069-1b76f66393d6",
+                    "timestamp": "2024-12-08T04:04:15Z",
+                    "description": "Czech science fiction writer and playwright (1890–1938)",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Karel_%C4%8Capek",
+                            "revisions": "https://en.wikipedia.org/wiki/Karel_%C4%8Capek?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Karel_%C4%8Capek?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Karel_%C4%8Capek"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Karel_%C4%8Capek",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Karel_%C4%8Capek",
+                            "edit": "https://en.m.wikipedia.org/wiki/Karel_%C4%8Capek?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Karel_%C4%8Capek"
+                        }
+                    },
+                    "extract": "Karel Čapek was a Czech writer, playwright, critic and journalist. He has become best known for his science fiction, including his novel War with the Newts (1936) and play R.U.R., which introduced the word robot. He also wrote many politically charged works dealing with the social turmoil of his time. Influenced by American pragmatic liberalism, he campaigned in favor of free expression and strongly opposed the rise of both fascism and communism in Europe.",
+                    "extract_html": "<p><b>Karel Čapek</b> was a Czech writer, playwright, critic and journalist. He has become best known for his science fiction, including his novel <i>War with the Newts</i> (1936) and play <i>R.U.R.</i>, which introduced the word <i>robot</i>. He also wrote many politically charged works dealing with the social turmoil of his time. Influenced by American pragmatic liberalism, he campaigned in favor of free expression and strongly opposed the rise of both fascism and communism in Europe.</p>",
+                    "normalizedtitle": "Karel Čapek"
+                },
+                {
+                    "type": "standard",
+                    "title": "R.U.R.",
+                    "displaytitle": "<i>R.U.R.</i>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q1164094",
+                    "titles": {
+                        "canonical": "R.U.R.",
+                        "normalized": "R.U.R.",
+                        "display": "<i>R.U.R.</i>"
+                    },
+                    "pageid": 37386,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rosumovi_Univerz%C3%A1ln%C3%AD_Roboti_1920.jpg/320px-Rosumovi_Univerz%C3%A1ln%C3%AD_Roboti_1920.jpg",
+                        "width": 320,
+                        "height": 477
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Rosumovi_Univerz%C3%A1ln%C3%AD_Roboti_1920.jpg",
+                        "width": 760,
+                        "height": 1132
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1270303600",
+                    "tid": "566191e6-d5ec-11ef-b2b0-32f1e99d930f",
+                    "timestamp": "2025-01-18T22:34:11Z",
+                    "description": "1920 play by Karel Čapek that introduced the word \"robot\"",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/R.U.R.",
+                            "revisions": "https://en.wikipedia.org/wiki/R.U.R.?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/R.U.R.?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:R.U.R."
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/R.U.R.",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/R.U.R.",
+                            "edit": "https://en.m.wikipedia.org/wiki/R.U.R.?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:R.U.R."
+                        }
+                    },
+                    "extract": "R.U.R. is a 1920 science fiction play by the Czech writer Karel Čapek. \"R.U.R.\" stands for Rossumovi Univerzální Roboti. The play had its world premiere on 2 January 1921 in Hradec Králové; it introduced the word \"robot\" to the English language and to science fiction as a whole. R.U.R. became influential soon after its publication. By 1923, it had been translated into thirty languages. R.U.R. was successful in its time in Europe and North America. Čapek later took a different approach to the same theme in his 1936 novel War with the Newts, in which non-humans become a servant-class in human society.",
+                    "extract_html": "<p><i><b>R.U.R.</b></i> is a 1920 science fiction play by the Czech writer Karel Čapek. \"R.U.R.\" stands for <span><i lang=\"cs\">Rossumovi Univerzální Roboti</i></span>. The play had its world premiere on 2 January 1921 in Hradec Králové; it introduced the word \"robot\" to the English language and to science fiction as a whole. <i>R.U.R.</i> became influential soon after its publication. By 1923, it had been translated into thirty languages. <i>R.U.R.</i> was successful in its time in Europe and North America. Čapek later took a different approach to the same theme in his 1936 novel <i>War with the Newts</i>, in which non-humans become a servant-class in human society.</p>",
+                    "normalizedtitle": "R.U.R."
+                },
+                {
+                    "type": "standard",
+                    "title": "Science_fiction_on_television",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Science fiction on television</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q336059",
+                    "titles": {
+                        "canonical": "Science_fiction_on_television",
+                        "normalized": "Science fiction on television",
+                        "display": "<span class=\"mw-page-title-main\">Science fiction on television</span>"
+                    },
+                    "pageid": 27608,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Al_Hodge_Don_Hastings_Captain_Video.JPG/320px-Al_Hodge_Don_Hastings_Captain_Video.JPG",
+                        "width": 320,
+                        "height": 439
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/2/26/Al_Hodge_Don_Hastings_Captain_Video.JPG",
+                        "width": 2076,
+                        "height": 2848
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1274409114",
+                    "tid": "eff7c971-e510-11ef-88a7-07da78d589fb",
+                    "timestamp": "2025-02-07T05:03:58Z",
+                    "description": "Television genre",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Science_fiction_on_television",
+                            "revisions": "https://en.wikipedia.org/wiki/Science_fiction_on_television?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Science_fiction_on_television?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Science_fiction_on_television"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Science_fiction_on_television",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Science_fiction_on_television",
+                            "edit": "https://en.m.wikipedia.org/wiki/Science_fiction_on_television?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Science_fiction_on_television"
+                        }
+                    },
+                    "extract": "Science fiction first appeared in television programming in the late 1930s, during what is called the Golden Age of Science Fiction. Special effects and other production techniques allow creators to present a living visual image of an imaginary world not limited by the constraints of reality.",
+                    "extract_html": "<p>Science fiction first appeared in television programming in the late 1930s, during what is called the Golden Age of Science Fiction. Special effects and other production techniques allow creators to present a living visual image of an imaginary world not limited by the constraints of reality.</p>",
+                    "normalizedtitle": "Science fiction on television"
+                }
+            ],
+            "year": 1938
+        },
+        {
+            "text": "Friedrich Ebert was elected the provisional president of Germany by the Weimar National Assembly.",
+            "pages": [
+                {
+                    "type": "standard",
+                    "title": "Friedrich_Ebert",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Friedrich Ebert</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q2646",
+                    "titles": {
+                        "canonical": "Friedrich_Ebert",
+                        "normalized": "Friedrich Ebert",
+                        "display": "<span class=\"mw-page-title-main\">Friedrich Ebert</span>"
+                    },
+                    "pageid": 242325,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bundesarchiv_Bild_102-00015%2C_Friedrich_Ebert%28cropped%29.jpg/320px-Bundesarchiv_Bild_102-00015%2C_Friedrich_Ebert%28cropped%29.jpg",
+                        "width": 320,
+                        "height": 427
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bundesarchiv_Bild_102-00015%2C_Friedrich_Ebert%28cropped%29.jpg",
+                        "width": 489,
+                        "height": 653
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1274975536",
+                    "tid": "d79ace69-e79a-11ef-9887-554779c5d06e",
+                    "timestamp": "2025-02-10T10:36:10Z",
+                    "description": "President of Germany from 1919 to 1925",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Friedrich_Ebert",
+                            "revisions": "https://en.wikipedia.org/wiki/Friedrich_Ebert?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Friedrich_Ebert?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Friedrich_Ebert"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Friedrich_Ebert",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Friedrich_Ebert",
+                            "edit": "https://en.m.wikipedia.org/wiki/Friedrich_Ebert?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Friedrich_Ebert"
+                        }
+                    },
+                    "extract": "Friedrich Ebert was a German politician of the Social Democratic Party of Germany (SPD) and the first president of Germany from 1919 until his death in office in 1925.",
+                    "extract_html": "<p><b>Friedrich Ebert</b> was a German politician of the Social Democratic Party of Germany (SPD) and the first president of Germany from 1919 until his death in office in 1925.</p>",
+                    "normalizedtitle": "Friedrich Ebert"
+                },
+                {
+                    "type": "standard",
+                    "title": "President_of_Germany_(1919–1945)",
+                    "displaytitle": "<span class=\"mw-page-title-main\">President of Germany (1919–1945)</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q157740",
+                    "titles": {
+                        "canonical": "President_of_Germany_(1919–1945)",
+                        "normalized": "President of Germany (1919–1945)",
+                        "display": "<span class=\"mw-page-title-main\">President of Germany (1919–1945)</span>"
+                    },
+                    "pageid": 407083,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Standarte_Reichspr%C3%A4sident_1933-1935.svg/320px-Standarte_Reichspr%C3%A4sident_1933-1935.svg.png",
+                        "width": 320,
+                        "height": 320
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Standarte_Reichspr%C3%A4sident_1933-1935.svg/3543px-Standarte_Reichspr%C3%A4sident_1933-1935.svg.png",
+                        "width": 3543,
+                        "height": 3543
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1274975502",
+                    "tid": "cf42ae31-e79a-11ef-a931-1e0d4fe40625",
+                    "timestamp": "2025-02-10T10:35:56Z",
+                    "description": "Head of state under the Weimar Constitution",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/President_of_Germany_(1919%E2%80%931945)",
+                            "revisions": "https://en.wikipedia.org/wiki/President_of_Germany_(1919%E2%80%931945)?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/President_of_Germany_(1919%E2%80%931945)?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:President_of_Germany_(1919%E2%80%931945)"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/President_of_Germany_(1919%E2%80%931945)",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/President_of_Germany_(1919%E2%80%931945)",
+                            "edit": "https://en.m.wikipedia.org/wiki/President_of_Germany_(1919%E2%80%931945)?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:President_of_Germany_(1919%E2%80%931945)"
+                        }
+                    },
+                    "extract": "The president of Germany was the head of state under the Weimar Constitution, which was officially in force from 1919 to 1945, encompassing the periods of the Weimar Republic and Nazi Germany.",
+                    "extract_html": "<p>The <b>president of Germany</b> was the head of state under the Weimar Constitution, which was officially in force from 1919 to 1945, encompassing the periods of the Weimar Republic and Nazi Germany.</p>",
+                    "normalizedtitle": "President of Germany (1919–1945)"
+                },
+                {
+                    "type": "standard",
+                    "title": "Weimar_National_Assembly",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Weimar National Assembly</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q649746",
+                    "titles": {
+                        "canonical": "Weimar_National_Assembly",
+                        "normalized": "Weimar National Assembly",
+                        "display": "<span class=\"mw-page-title-main\">Weimar National Assembly</span>"
+                    },
+                    "pageid": 14637006,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wappen_Deutsches_Reich_%28Weimarer_Republik%29.svg/320px-Wappen_Deutsches_Reich_%28Weimarer_Republik%29.svg.png",
+                        "width": 320,
+                        "height": 383
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wappen_Deutsches_Reich_%28Weimarer_Republik%29.svg/512px-Wappen_Deutsches_Reich_%28Weimarer_Republik%29.svg.png",
+                        "width": 512,
+                        "height": 613
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1274049070",
+                    "tid": "0b39b665-e38d-11ef-a813-f87d19bde384",
+                    "timestamp": "2025-02-05T06:47:19Z",
+                    "description": "1919–20 German constitutional convention and parliament",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Weimar_National_Assembly",
+                            "revisions": "https://en.wikipedia.org/wiki/Weimar_National_Assembly?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Weimar_National_Assembly?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Weimar_National_Assembly"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Weimar_National_Assembly",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Weimar_National_Assembly",
+                            "edit": "https://en.m.wikipedia.org/wiki/Weimar_National_Assembly?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Weimar_National_Assembly"
+                        }
+                    },
+                    "extract": "The Weimar National Assembly, officially the German National Constitutional Assembly, was the popularly elected constitutional convention and de facto parliament of Germany from 6 February 1919 to 21 May 1920. As part of its duties as the interim government, it debated and reluctantly approved the Treaty of Versailles that codified the peace terms between Germany and the victorious Allies of World War I. The Assembly drew up and approved the Weimar Constitution that was in force from 1919 to 1933. With its work completed, the National Assembly was dissolved on 21 May 1920. Following the election of 6 June 1920, the new Reichstag met for the first time on 24 June 1920, taking the place of the Assembly.",
+                    "extract_html": "<p>The <b>Weimar National Assembly</b>, officially the <b>German National Constitutional Assembly</b>, was the popularly elected constitutional convention and de facto parliament of Germany from 6 February 1919 to 21 May 1920. As part of its duties as the interim government, it debated and reluctantly approved the Treaty of Versailles that codified the peace terms between Germany and the victorious Allies of World War I. The Assembly drew up and approved the Weimar Constitution that was in force from 1919 to 1933. With its work completed, the National Assembly was dissolved on 21 May 1920. Following the election of 6 June 1920, the new Reichstag met for the first time on 24 June 1920, taking the place of the Assembly.</p>",
+                    "normalizedtitle": "Weimar National Assembly"
+                }
+            ],
+            "year": 1919
+        },
+        {
+            "text": "As part of celebrations marking the separation of Victoria from New South Wales, the inaugural first-class cricket match in Australia began at the Launceston Racecourse in Tasmania.",
+            "pages": [
+                {
+                    "type": "standard",
+                    "title": "Victoria_(state)",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Victoria (state)</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q36687",
+                    "titles": {
+                        "canonical": "Victoria_(state)",
+                        "normalized": "Victoria (state)",
+                        "display": "<span class=\"mw-page-title-main\">Victoria (state)</span>"
+                    },
+                    "pageid": 4689460,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Victoria_%28Australia%29.svg/320px-Flag_of_Victoria_%28Australia%29.svg.png",
+                        "width": 320,
+                        "height": 160
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Victoria_%28Australia%29.svg/1200px-Flag_of_Victoria_%28Australia%29.svg.png",
+                        "width": 1200,
+                        "height": 600
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1275050808",
+                    "tid": "df35a6c2-e7e9-11ef-967e-35089dda0b1c",
+                    "timestamp": "2025-02-10T20:01:53Z",
+                    "description": "State of Australia",
+                    "description_source": "local",
+                    "coordinates": {
+                        "lat": -36.85416667,
+                        "lon": 144.28111111
+                    },
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Victoria_(state)",
+                            "revisions": "https://en.wikipedia.org/wiki/Victoria_(state)?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Victoria_(state)?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Victoria_(state)"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Victoria_(state)",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Victoria_(state)",
+                            "edit": "https://en.m.wikipedia.org/wiki/Victoria_(state)?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Victoria_(state)"
+                        }
+                    },
+                    "extract": "Victoria, commonly abbreviated as Vic, is a state in southeastern Australia. It is the second-smallest state, with a land area of 227,444 km2 (87,817 sq mi); the second-most-populated state, with a population of over 6.9 million; and the most densely populated state in Australia. Victoria's economy is the second-largest among Australian states and is highly diversified, with service sectors predominating.",
+                    "extract_html": "<p><b>Victoria</b>, commonly abbreviated as <b>Vic</b>, is a state in southeastern Australia. It is the second-smallest state, with a land area of 227,444 km<sup>2</sup> (87,817 sq mi); the second-most-populated state, with a population of over 6.9 million; and the most densely populated state in Australia. Victoria's economy is the second-largest among Australian states and is highly diversified, with service sectors predominating.</p>",
+                    "normalizedtitle": "Victoria (state)"
+                },
+                {
+                    "type": "standard",
+                    "title": "New_South_Wales",
+                    "displaytitle": "<span class=\"mw-page-title-main\">New South Wales</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q3224",
+                    "titles": {
+                        "canonical": "New_South_Wales",
+                        "normalized": "New South Wales",
+                        "display": "<span class=\"mw-page-title-main\">New South Wales</span>"
+                    },
+                    "pageid": 21654,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_New_South_Wales.svg/320px-Flag_of_New_South_Wales.svg.png",
+                        "width": 320,
+                        "height": 160
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_New_South_Wales.svg/1200px-Flag_of_New_South_Wales.svg.png",
+                        "width": 1200,
+                        "height": 600
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1275253524",
+                    "tid": "d1f1d7cf-e8cd-11ef-8236-0256e4420205",
+                    "timestamp": "2025-02-11T23:13:36Z",
+                    "description": "State of Australia",
+                    "description_source": "local",
+                    "coordinates": {
+                        "lat": -32,
+                        "lon": 147
+                    },
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/New_South_Wales",
+                            "revisions": "https://en.wikipedia.org/wiki/New_South_Wales?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/New_South_Wales?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:New_South_Wales"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/New_South_Wales",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/New_South_Wales",
+                            "edit": "https://en.m.wikipedia.org/wiki/New_South_Wales?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:New_South_Wales"
+                        }
+                    },
+                    "extract": "New South Wales is a state on the east coast of Australia. It borders Queensland to the north, Victoria to the south, and South Australia to the west. Its coast borders the Coral and Tasman Seas to the east. The Australian Capital Territory and Jervis Bay Territory are enclaves within the state. New South Wales' state capital is Sydney, which is also Australia's most populous city. In December 2023, the population of New South Wales was over 8.3 million, making it Australia's most populous state. Almost two-thirds of the state's population, 5.3 million, live in the Greater Sydney area.",
+                    "extract_html": "<p><b>New South Wales</b> is a state on the east coast of Australia. It borders Queensland to the north, Victoria to the south, and South Australia to the west. Its coast borders the Coral and Tasman Seas to the east. The Australian Capital Territory and Jervis Bay Territory are enclaves within the state. New South Wales' state capital is Sydney, which is also Australia's most populous city. In December 2023, the population of New South Wales was over 8.3 million, making it Australia's most populous state. Almost two-thirds of the state's population, 5.3 million, live in the Greater Sydney area.</p>",
+                    "normalizedtitle": "New South Wales"
+                },
+                {
+                    "type": "standard",
+                    "title": "Van_Diemen's_Land_v_Port_Phillip,_1851",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Van Diemen&#039;s Land v Port Phillip, 1851</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q22044766",
+                    "titles": {
+                        "canonical": "Van_Diemen's_Land_v_Port_Phillip,_1851",
+                        "normalized": "Van Diemen's Land v Port Phillip, 1851",
+                        "display": "<span class=\"mw-page-title-main\">Van Diemen&#039;s Land v Port Phillip, 1851</span>"
+                    },
+                    "pageid": 48995775,
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1275296015",
+                    "tid": "5ceacf0d-e8fe-11ef-8d59-665ef3b03f4a",
+                    "timestamp": "2025-02-12T05:01:05Z",
+                    "description": "1851 cricket match in Australia",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Van_Diemen's_Land_v_Port_Phillip%2C_1851",
+                            "revisions": "https://en.wikipedia.org/wiki/Van_Diemen's_Land_v_Port_Phillip%2C_1851?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Van_Diemen's_Land_v_Port_Phillip%2C_1851?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Van_Diemen's_Land_v_Port_Phillip%2C_1851"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Van_Diemen's_Land_v_Port_Phillip%2C_1851",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Van_Diemen's_Land_v_Port_Phillip%2C_1851",
+                            "edit": "https://en.m.wikipedia.org/wiki/Van_Diemen's_Land_v_Port_Phillip%2C_1851?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Van_Diemen's_Land_v_Port_Phillip%2C_1851"
+                        }
+                    },
+                    "extract": "\n\nOn 11 and 12 February 1851, teams from Van Diemen's Land and Port Phillip District played the first cricket match between two Australian colonies, recognised in later years as the inaugural first-class cricket match in Australia. It took place at the Launceston Racecourse, known now as the NTCA Ground, in Tasmania. The match was incorporated into celebrations marking the separation of the Port Phillip District from New South Wales in 1851 as the colony of Victoria.",
+                    "extract_html": "<p>\n\nOn 11 and 12 February 1851, teams from Van Diemen's Land and Port Phillip District played the first cricket match between two Australian colonies, recognised in later years as the inaugural first-class cricket match in Australia. It took place at the Launceston Racecourse, known now as the NTCA Ground, in Tasmania. The match was incorporated into celebrations marking the separation of the Port Phillip District from New South Wales in 1851 as the colony of Victoria.</p>",
+                    "normalizedtitle": "Van Diemen's Land v Port Phillip, 1851"
+                },
+                {
+                    "type": "standard",
+                    "title": "NTCA_Ground",
+                    "displaytitle": "<span class=\"mw-page-title-main\">NTCA Ground</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q6955446",
+                    "titles": {
+                        "canonical": "NTCA_Ground",
+                        "normalized": "NTCA Ground",
+                        "display": "<span class=\"mw-page-title-main\">NTCA Ground</span>"
+                    },
+                    "pageid": 7877514,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/NTCA_Ground.jpg/320px-NTCA_Ground.jpg",
+                        "width": 320,
+                        "height": 125
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/7/74/NTCA_Ground.jpg",
+                        "width": 1628,
+                        "height": 634
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1189233411",
+                    "tid": "c01a1f8f-9774-11ee-92ef-a32fec4fa538",
+                    "timestamp": "2023-12-10T15:56:59Z",
+                    "description": "Cricket ground in Australia",
+                    "description_source": "local",
+                    "coordinates": {
+                        "lat": -41.42972222,
+                        "lon": 147.15166667
+                    },
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/NTCA_Ground",
+                            "revisions": "https://en.wikipedia.org/wiki/NTCA_Ground?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/NTCA_Ground?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:NTCA_Ground"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/NTCA_Ground",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/NTCA_Ground",
+                            "edit": "https://en.m.wikipedia.org/wiki/NTCA_Ground?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:NTCA_Ground"
+                        }
+                    },
+                    "extract": "The North Tasmania Cricket Association Ground, better known as the NTCA Ground, is the oldest first-class cricket ground in Australia. It is a multi-use sports venue situated in Launceston, Australia. In 1851, the ground hosted Australia's first intercolonial and initial first class cricket match. It is currently used mostly for club cricket matches and has a capacity of under 10,000.",
+                    "extract_html": "<p>The <b>North Tasmania Cricket Association Ground</b>, better known as the <b>NTCA Ground</b>, is the oldest first-class cricket ground in Australia. It is a multi-use sports venue situated in Launceston, Australia. In 1851, the ground hosted Australia's first intercolonial and initial first class cricket match. It is currently used mostly for club cricket matches and has a capacity of under 10,000.</p>",
+                    "normalizedtitle": "NTCA Ground"
+                },
+                {
+                    "type": "standard",
+                    "title": "Tasmania",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Tasmania</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q34366",
+                    "titles": {
+                        "canonical": "Tasmania",
+                        "normalized": "Tasmania",
+                        "display": "<span class=\"mw-page-title-main\">Tasmania</span>"
+                    },
+                    "pageid": 29944,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Tasmania.svg/320px-Flag_of_Tasmania.svg.png",
+                        "width": 320,
+                        "height": 160
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Tasmania.svg/1200px-Flag_of_Tasmania.svg.png",
+                        "width": 1200,
+                        "height": 600
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1275051515",
+                    "tid": "83b7d861-e7ea-11ef-992d-e9648455918d",
+                    "timestamp": "2025-02-10T20:06:29Z",
+                    "description": "State of Australia",
+                    "description_source": "local",
+                    "coordinates": {
+                        "lat": -42,
+                        "lon": 147
+                    },
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Tasmania",
+                            "revisions": "https://en.wikipedia.org/wiki/Tasmania?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Tasmania?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Tasmania"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Tasmania",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Tasmania",
+                            "edit": "https://en.m.wikipedia.org/wiki/Tasmania?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Tasmania"
+                        }
+                    },
+                    "extract": "Tasmania is an island state of Australia. It is located 240 kilometres to the south of the Australian mainland, and is separated from it by the Bass Strait. The state encompasses the main island of Tasmania, the 26th-largest island in the world, and the surrounding 1000 islands. It is Australia's smallest and least populous state, with 573,479 residents as of June 2023. The state capital and largest city is Hobart, with around 40% of the population living in the Greater Hobart area. Tasmania is the most decentralised state in Australia, with the lowest proportion of its residents living within its capital city.",
+                    "extract_html": "<p><b>Tasmania</b> is an island state of Australia. It is located 240 kilometres to the south of the Australian mainland, and is separated from it by the Bass Strait. The state encompasses the main island of Tasmania, the 26th-largest island in the world, and the surrounding 1000 islands. It is Australia's smallest and least populous state, with 573,479 residents as of June 2023. The state capital and largest city is Hobart, with around 40% of the population living in the Greater Hobart area. Tasmania is the most decentralised state in Australia, with the lowest proportion of its residents living within its capital city.</p>",
+                    "normalizedtitle": "Tasmania"
+                }
+            ],
+            "year": 1851
+        },
+        {
+            "text": "La fille du régiment (audio featured), an opéra comique by Gaetano Donizetti, premiered in Paris to highly negative reviews but later became a success.",
+            "pages": [
+                {
+                    "type": "standard",
+                    "title": "La_fille_du_régiment",
+                    "displaytitle": "<i>La fille du régiment</i>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q729568",
+                    "titles": {
+                        "canonical": "La_fille_du_régiment",
+                        "normalized": "La fille du régiment",
+                        "display": "<i>La fille du régiment</i>"
+                    },
+                    "pageid": 38317,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Roles_de_Melle_Borgh%C3%A8se_et_Henri_dans_la_Fille_du_R%C3%A9giment_%28Chronique_des_The%C3%A2tres%2C_1840_-_Gallica_%28adjusted%29%29.jpg/320px-Roles_de_Melle_Borgh%C3%A8se_et_Henri_dans_la_Fille_du_R%C3%A9giment_%28Chronique_des_The%C3%A2tres%2C_1840_-_Gallica_%28adjusted%29%29.jpg",
+                        "width": 320,
+                        "height": 251
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Roles_de_Melle_Borgh%C3%A8se_et_Henri_dans_la_Fille_du_R%C3%A9giment_%28Chronique_des_The%C3%A2tres%2C_1840_-_Gallica_%28adjusted%29%29.jpg",
+                        "width": 2568,
+                        "height": 2017
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1260318195",
+                    "tid": "410d8b1e-aec4-11ef-96f2-9f90e6345a68",
+                    "timestamp": "2024-11-30T02:39:00Z",
+                    "description": "1840 opéra comique by Gaetano Donizetti",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/La_fille_du_r%C3%A9giment",
+                            "revisions": "https://en.wikipedia.org/wiki/La_fille_du_r%C3%A9giment?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/La_fille_du_r%C3%A9giment?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:La_fille_du_r%C3%A9giment"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/La_fille_du_r%C3%A9giment",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/La_fille_du_r%C3%A9giment",
+                            "edit": "https://en.m.wikipedia.org/wiki/La_fille_du_r%C3%A9giment?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:La_fille_du_r%C3%A9giment"
+                        }
+                    },
+                    "extract": "La fille du régiment is an opéra comique in two acts by Gaetano Donizetti, set to a French libretto by Jules-Henri Vernoy de Saint-Georges and Jean-François Bayard. It was first performed on 11 February 1840 by the Paris Opéra-Comique at the Salle de la Bourse.",
+                    "extract_html": "<p><i><b><span><i lang=\"fr\">La fille du régiment</i></span></b></i> is an opéra comique in two acts by Gaetano Donizetti, set to a French libretto by Jules-Henri Vernoy de Saint-Georges and Jean-François Bayard. It was first performed on 11 February 1840 by the Paris Opéra-Comique at the Salle de la Bourse.</p>",
+                    "normalizedtitle": "La fille du régiment"
+                },
+                {
+                    "type": "standard",
+                    "title": "Opéra_comique",
+                    "displaytitle": "<i>Opéra comique</i>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q785479",
+                    "titles": {
+                        "canonical": "Opéra_comique",
+                        "normalized": "Opéra comique",
+                        "display": "<i>Opéra comique</i>"
+                    },
+                    "pageid": 1249682,
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1270490677",
+                    "tid": "ac9008c8-d6a0-11ef-8879-d6b49f6a31ed",
+                    "timestamp": "2025-01-19T20:05:05Z",
+                    "description": "Genre of French opera",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Op%C3%A9ra_comique",
+                            "revisions": "https://en.wikipedia.org/wiki/Op%C3%A9ra_comique?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Op%C3%A9ra_comique?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Op%C3%A9ra_comique"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Op%C3%A9ra_comique",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Op%C3%A9ra_comique",
+                            "edit": "https://en.m.wikipedia.org/wiki/Op%C3%A9ra_comique?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Op%C3%A9ra_comique"
+                        }
+                    },
+                    "extract": "Opéra comique is a genre of French opera that contains spoken dialogue and arias. It emerged from the popular opéras comiques en vaudevilles of the Fair Theatres of St Germain and St Laurent, which combined existing popular tunes with spoken sections. Associated with the Paris theatre of the same name, opéra comique is not necessarily comical or shallow; Carmen, perhaps the most famous opéra comique, is a tragedy.",
+                    "extract_html": "<p><i><b>Opéra comique</b></i> is a genre of French opera that contains spoken dialogue and arias. It emerged from the popular <i>opéras comiques en vaudevilles</i> of the Fair Theatres of St Germain and St Laurent, which combined existing popular tunes with spoken sections. Associated with the Paris theatre of the same name, <i>opéra comique</i> is not necessarily comical or shallow; <i>Carmen</i>, perhaps the most famous <i>opéra comique</i>, is a tragedy.</p>",
+                    "normalizedtitle": "Opéra comique"
+                },
+                {
+                    "type": "standard",
+                    "title": "Gaetano_Donizetti",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Gaetano Donizetti</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q101698",
+                    "titles": {
+                        "canonical": "Gaetano_Donizetti",
+                        "normalized": "Gaetano Donizetti",
+                        "display": "<span class=\"mw-page-title-main\">Gaetano Donizetti</span>"
+                    },
+                    "pageid": 37934,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Francesco_Coghetti%2C_Ritratto_di_Gaetano_Donizetti.JPG/320px-Francesco_Coghetti%2C_Ritratto_di_Gaetano_Donizetti.JPG",
+                        "width": 320,
+                        "height": 434
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/1/12/Francesco_Coghetti%2C_Ritratto_di_Gaetano_Donizetti.JPG",
+                        "width": 669,
+                        "height": 907
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1266491936",
+                    "tid": "6ee84804-c7c4-11ef-a39a-f43f0710178c",
+                    "timestamp": "2024-12-31T22:13:16Z",
+                    "description": "Italian opera composer (1797–1848)",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Gaetano_Donizetti",
+                            "revisions": "https://en.wikipedia.org/wiki/Gaetano_Donizetti?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Gaetano_Donizetti?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Gaetano_Donizetti"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Gaetano_Donizetti",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Gaetano_Donizetti",
+                            "edit": "https://en.m.wikipedia.org/wiki/Gaetano_Donizetti?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Gaetano_Donizetti"
+                        }
+                    },
+                    "extract": "Domenico Gaetano Maria Donizetti was an Italian composer, best known for his almost 70 operas. Along with Gioachino Rossini and Vincenzo Bellini, he was a leading composer of the bel canto opera style during the first half of the nineteenth century and a probable influence on other composers such as Giuseppe Verdi. Donizetti was born in Bergamo in Lombardy. At an early age he was taken up by Simon Mayr who enrolled him with a full scholarship in a school which he had set up. There he received detailed musical training. Mayr was instrumental in obtaining a place for Donizetti at the Bologna Academy, where, at the age of 19, he wrote his first one-act opera, the comedy Il Pigmalione, which may never have been performed during his lifetime.",
+                    "extract_html": "<p><b>Domenico Gaetano Maria Donizetti</b> was an Italian composer, best known for his almost 70 operas. Along with Gioachino Rossini and Vincenzo Bellini, he was a leading composer of the <i>bel canto</i> opera style during the first half of the nineteenth century and a probable influence on other composers such as Giuseppe Verdi. Donizetti was born in Bergamo in Lombardy. At an early age he was taken up by Simon Mayr who enrolled him with a full scholarship in a school which he had set up. There he received detailed musical training. Mayr was instrumental in obtaining a place for Donizetti at the Bologna Academy, where, at the age of 19, he wrote his first one-act opera, the comedy <i>Il Pigmalione</i>, which may never have been performed during his lifetime.</p>",
+                    "normalizedtitle": "Gaetano Donizetti"
+                }
+            ],
+            "year": 1840
+        },
+        {
+            "text": "London University, later University College London (pictured), was founded as the first secular university in England.",
+            "pages": [
+                {
+                    "type": "standard",
+                    "title": "University_College_London",
+                    "displaytitle": "<span class=\"mw-page-title-main\">University College London</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q193196",
+                    "titles": {
+                        "canonical": "University_College_London",
+                        "normalized": "University College London",
+                        "display": "<span class=\"mw-page-title-main\">University College London</span>"
+                    },
+                    "pageid": 52029,
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1275223782",
+                    "tid": "9649174a-e8b1-11ef-bbc7-c6bf4230322b",
+                    "timestamp": "2025-02-11T19:51:30Z",
+                    "description": "Public research university in London, England",
+                    "description_source": "local",
+                    "coordinates": {
+                        "lat": 51.52472222,
+                        "lon": -0.13361111
+                    },
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/University_College_London",
+                            "revisions": "https://en.wikipedia.org/wiki/University_College_London?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/University_College_London?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:University_College_London"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/University_College_London",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/University_College_London",
+                            "edit": "https://en.m.wikipedia.org/wiki/University_College_London?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:University_College_London"
+                        }
+                    },
+                    "extract": "University College London is a public research university in London, England. It is a member institution of the federal University of London, and is the second-largest university in the United Kingdom by total enrolment and the largest by postgraduate enrollment.",
+                    "extract_html": "<p><b>University College London</b> is a public research university in London, England. It is a member institution of the federal University of London, and is the second-largest university in the United Kingdom by total enrolment and the largest by postgraduate enrollment.</p>",
+                    "normalizedtitle": "University College London"
+                }
+            ],
+            "year": 1826
+        },
+        {
+            "text": "Around 110 boys were killed in a human crush at the Convent of the Minori Osservanti in Valletta on the last day of the Maltese Carnival.",
+            "pages": [
+                {
+                    "type": "standard",
+                    "title": "Carnival_tragedy_of_1823",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Carnival tragedy of 1823</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q28219990",
+                    "titles": {
+                        "canonical": "Carnival_tragedy_of_1823",
+                        "normalized": "Carnival tragedy of 1823",
+                        "display": "<span class=\"mw-page-title-main\">Carnival tragedy of 1823</span>"
+                    },
+                    "pageid": 51115090,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ta_Giezu_Church_14.jpg/320px-Ta_Giezu_Church_14.jpg",
+                        "width": 320,
+                        "height": 428
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ta_Giezu_Church_14.jpg/1936px-Ta_Giezu_Church_14.jpg",
+                        "width": 1936,
+                        "height": 2592
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1272607104",
+                    "tid": "8c9edb88-de48-11ef-88f0-637d1656e56d",
+                    "timestamp": "2025-01-29T13:54:25Z",
+                    "description": "Human crush in Valletta, British Malta",
+                    "description_source": "local",
+                    "coordinates": {
+                        "lat": 35.89638889,
+                        "lon": 14.51333333
+                    },
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Carnival_tragedy_of_1823",
+                            "revisions": "https://en.wikipedia.org/wiki/Carnival_tragedy_of_1823?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Carnival_tragedy_of_1823?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Carnival_tragedy_of_1823"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Carnival_tragedy_of_1823",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Carnival_tragedy_of_1823",
+                            "edit": "https://en.m.wikipedia.org/wiki/Carnival_tragedy_of_1823?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Carnival_tragedy_of_1823"
+                        }
+                    },
+                    "extract": "The Carnival tragedy of 1823 was a human crush which occurred on 11 February 1823 at the Convent of the Minori Osservanti in Valletta, Malta. About 110 boys who had gone to the convent to receive bread on the last day of carnival celebrations were killed after falling down a flight of steps while trying to get out of the convent.",
+                    "extract_html": "<p>The <b>Carnival tragedy of 1823</b> was a human crush which occurred on 11 February 1823 at the Convent of the Minori Osservanti in Valletta, Malta. About 110 boys who had gone to the convent to receive bread on the last day of carnival celebrations were killed after falling down a flight of steps while trying to get out of the convent.</p>",
+                    "normalizedtitle": "Carnival tragedy of 1823"
+                },
+                {
+                    "type": "standard",
+                    "title": "Franciscan_Church_of_St_Mary_of_Jesus",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Franciscan Church of St Mary of Jesus</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q10299989",
+                    "titles": {
+                        "canonical": "Franciscan_Church_of_St_Mary_of_Jesus",
+                        "normalized": "Franciscan Church of St Mary of Jesus",
+                        "display": "<span class=\"mw-page-title-main\">Franciscan Church of St Mary of Jesus</span>"
+                    },
+                    "pageid": 10418917,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Franciscan_Church_of_St_Mary_of_Jesus.jpg/320px-Franciscan_Church_of_St_Mary_of_Jesus.jpg",
+                        "width": 320,
+                        "height": 483
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Franciscan_Church_of_St_Mary_of_Jesus.jpg",
+                        "width": 1358,
+                        "height": 2048
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1269957606",
+                    "tid": "302fd530-d4a2-11ef-b755-1d502e294874",
+                    "timestamp": "2025-01-17T07:10:53Z",
+                    "description": "Church in Valletta, Malta",
+                    "description_source": "local",
+                    "coordinates": {
+                        "lat": 35.89638889,
+                        "lon": 14.51333333
+                    },
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Franciscan_Church_of_St_Mary_of_Jesus",
+                            "revisions": "https://en.wikipedia.org/wiki/Franciscan_Church_of_St_Mary_of_Jesus?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Franciscan_Church_of_St_Mary_of_Jesus?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Franciscan_Church_of_St_Mary_of_Jesus"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Franciscan_Church_of_St_Mary_of_Jesus",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Franciscan_Church_of_St_Mary_of_Jesus",
+                            "edit": "https://en.m.wikipedia.org/wiki/Franciscan_Church_of_St_Mary_of_Jesus?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Franciscan_Church_of_St_Mary_of_Jesus"
+                        }
+                    },
+                    "extract": "The Franciscan Church of St Mary of Jesus is a church in Valletta, Malta, which is dedicated to St Mary of Jesus and is cared for by the religious order of Friars Minor. It came to be popularly known by the Maltese as Ta' Ġieżu. Ta' Ġieżu is a local corruption of Ta' Ġesù.",
+                    "extract_html": "<p>The <b>Franciscan Church of St Mary of Jesus</b> is a church in Valletta, Malta, which is dedicated to St Mary of Jesus and is cared for by the religious order of Friars Minor. It came to be popularly known by the Maltese as <i>Ta' Ġieżu</i>. <i>Ta' Ġieżu</i> is a local corruption of <i>Ta' Ġesù</i>.</p>",
+                    "normalizedtitle": "Franciscan Church of St Mary of Jesus"
+                },
+                {
+                    "type": "standard",
+                    "title": "Maltese_Carnival",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Maltese Carnival</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q25687998",
+                    "titles": {
+                        "canonical": "Maltese_Carnival",
+                        "normalized": "Maltese Carnival",
+                        "display": "<span class=\"mw-page-title-main\">Maltese Carnival</span>"
+                    },
+                    "pageid": 9592012,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Carnival_in_Valletta_-_Trucks_in_Street_of_Valletta.jpg/320px-Carnival_in_Valletta_-_Trucks_in_Street_of_Valletta.jpg",
+                        "width": 320,
+                        "height": 173
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Carnival_in_Valletta_-_Trucks_in_Street_of_Valletta.jpg",
+                        "width": 1024,
+                        "height": 554
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1226612437",
+                    "tid": "0746e4c1-1f84-11ef-bfb2-44916fb3c211",
+                    "timestamp": "2024-05-31T19:28:59Z",
+                    "description": "Event held before Ash Wednesday in Malta",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Maltese_Carnival",
+                            "revisions": "https://en.wikipedia.org/wiki/Maltese_Carnival?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Maltese_Carnival?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Maltese_Carnival"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Maltese_Carnival",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Maltese_Carnival",
+                            "edit": "https://en.m.wikipedia.org/wiki/Maltese_Carnival?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Maltese_Carnival"
+                        }
+                    },
+                    "extract": "Carnival has had an important place on the Maltese cultural calendar for just under five centuries, having been celebrated since at least the mid-15th century. Carnival has been a prominent celebration in the Islands since the rule of Grand Master Piero de Ponte in 1535.",
+                    "extract_html": "<p><b>Carnival</b> has had an important place on the Maltese cultural calendar for just under five centuries, having been celebrated since at least the mid-15th century. Carnival has been a prominent celebration in the Islands since the rule of Grand Master Piero de Ponte in 1535.</p>",
+                    "normalizedtitle": "Maltese Carnival"
+                }
+            ],
+            "year": 1823
+        },
+        {
+            "text": "Spanish explorer Pedro Sarmiento de Gamboa founded the town of Nombre de Jesús, the first of two short-lived colonies at the Strait of Magellan.",
+            "pages": [
+                {
+                    "type": "standard",
+                    "title": "Pedro_Sarmiento_de_Gamboa",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Pedro Sarmiento de Gamboa</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q205303",
+                    "titles": {
+                        "canonical": "Pedro_Sarmiento_de_Gamboa",
+                        "normalized": "Pedro Sarmiento de Gamboa",
+                        "display": "<span class=\"mw-page-title-main\">Pedro Sarmiento de Gamboa</span>"
+                    },
+                    "pageid": 767287,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pedro_Sarmiento_de_Gamboa_%28RPS_16-11-2014%29_Alcal%C3%A1_de_Henares.png/320px-Pedro_Sarmiento_de_Gamboa_%28RPS_16-11-2014%29_Alcal%C3%A1_de_Henares.png",
+                        "width": 320,
+                        "height": 319
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Pedro_Sarmiento_de_Gamboa_%28RPS_16-11-2014%29_Alcal%C3%A1_de_Henares.png",
+                        "width": 1931,
+                        "height": 1927
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1264138977",
+                    "tid": "e6ce8ce1-beff-11ef-80ac-e5a0bbc34e89",
+                    "timestamp": "2024-12-20T18:26:17Z",
+                    "description": "Spanish explorer and writer (1532–1592)",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Pedro_Sarmiento_de_Gamboa",
+                            "revisions": "https://en.wikipedia.org/wiki/Pedro_Sarmiento_de_Gamboa?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Pedro_Sarmiento_de_Gamboa?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Pedro_Sarmiento_de_Gamboa"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Pedro_Sarmiento_de_Gamboa",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Pedro_Sarmiento_de_Gamboa",
+                            "edit": "https://en.m.wikipedia.org/wiki/Pedro_Sarmiento_de_Gamboa?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Pedro_Sarmiento_de_Gamboa"
+                        }
+                    },
+                    "extract": "Pedro Sarmiento de Gamboa (1532–1592) was a Spanish adventurer, author, historian, mathematician, and astronomer. His birthplace is not certain and may have been Pontevedra, in Galicia, where his paternal family originated, or Alcalá de Henares in Castile, where he later is known to have studied. His father Bartolomé Sarmiento was born in Pontevedra and his mother María Gamboa was born in Bilbao, Basque Country.",
+                    "extract_html": "<p><b>Pedro Sarmiento de Gamboa</b> (1532–1592) was a Spanish adventurer, author, historian, mathematician, and astronomer. His birthplace is not certain and may have been Pontevedra, in Galicia, where his paternal family originated, or Alcalá de Henares in Castile, where he later is known to have studied. His father Bartolomé Sarmiento was born in Pontevedra and his mother María Gamboa was born in Bilbao, Basque Country.</p>",
+                    "normalizedtitle": "Pedro Sarmiento de Gamboa"
+                },
+                {
+                    "type": "standard",
+                    "title": "Nombre_de_Jesús_(Patagonia)",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Nombre de Jesús (Patagonia)</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q5770842",
+                    "titles": {
+                        "canonical": "Nombre_de_Jesús_(Patagonia)",
+                        "normalized": "Nombre de Jesús (Patagonia)",
+                        "display": "<span class=\"mw-page-title-main\">Nombre de Jesús (Patagonia)</span>"
+                    },
+                    "pageid": 12014839,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/150_-_Cap_Virgenes_-_Manchot_de_Magellan_-_Janvier_2010.JPG/320px-150_-_Cap_Virgenes_-_Manchot_de_Magellan_-_Janvier_2010.JPG",
+                        "width": 320,
+                        "height": 213
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/c/c8/150_-_Cap_Virgenes_-_Manchot_de_Magellan_-_Janvier_2010.JPG",
+                        "width": 4722,
+                        "height": 3148
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1265044365",
+                    "tid": "755e49ae-c233-11ef-a426-d219aa3e415c",
+                    "timestamp": "2024-12-24T20:12:54Z",
+                    "description": "Failed Spanish colony started in 1584",
+                    "description_source": "local",
+                    "coordinates": {
+                        "lat": -52.3325,
+                        "lon": -68.40277778
+                    },
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Nombre_de_Jes%C3%BAs_(Patagonia)",
+                            "revisions": "https://en.wikipedia.org/wiki/Nombre_de_Jes%C3%BAs_(Patagonia)?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Nombre_de_Jes%C3%BAs_(Patagonia)?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Nombre_de_Jes%C3%BAs_(Patagonia)"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Nombre_de_Jes%C3%BAs_(Patagonia)",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Nombre_de_Jes%C3%BAs_(Patagonia)",
+                            "edit": "https://en.m.wikipedia.org/wiki/Nombre_de_Jes%C3%BAs_(Patagonia)?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Nombre_de_Jes%C3%BAs_(Patagonia)"
+                        }
+                    },
+                    "extract": "Nombre de Jesús was a Spanish town in Patagonia, settled in 1584 by Pedro Sarmiento de Gamboa in the Magellan Strait. Nombre de Jesús also refers to the archaeological site located in Santa Cruz Province, Argentina, where the remains of this settlement were found. This was the first European settlement in the Magellan Strait.",
+                    "extract_html": "<p><b>Nombre de Jesús</b> was a Spanish town in Patagonia, settled in 1584 by Pedro Sarmiento de Gamboa in the Magellan Strait. <i>Nombre de Jesús</i> also refers to the archaeological site located in Santa Cruz Province, Argentina, where the remains of this settlement were found. This was the first European settlement in the Magellan Strait.</p>",
+                    "normalizedtitle": "Nombre de Jesús (Patagonia)"
+                },
+                {
+                    "type": "standard",
+                    "title": "Spanish_colonization_attempt_of_the_Strait_of_Magellan",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Spanish colonization attempt of the Strait of Magellan</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q110612748",
+                    "titles": {
+                        "canonical": "Spanish_colonization_attempt_of_the_Strait_of_Magellan",
+                        "normalized": "Spanish colonization attempt of the Strait of Magellan",
+                        "display": "<span class=\"mw-page-title-main\">Spanish colonization attempt of the Strait of Magellan</span>"
+                    },
+                    "pageid": 69791889,
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1256598945",
+                    "tid": "01bdf3e6-9f93-11ef-9596-0f9da637563d",
+                    "timestamp": "2024-11-10T18:38:41Z",
+                    "description": "Two late 16th century failed colonies",
+                    "description_source": "local",
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Spanish_colonization_attempt_of_the_Strait_of_Magellan",
+                            "revisions": "https://en.wikipedia.org/wiki/Spanish_colonization_attempt_of_the_Strait_of_Magellan?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Spanish_colonization_attempt_of_the_Strait_of_Magellan?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Spanish_colonization_attempt_of_the_Strait_of_Magellan"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Spanish_colonization_attempt_of_the_Strait_of_Magellan",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Spanish_colonization_attempt_of_the_Strait_of_Magellan",
+                            "edit": "https://en.m.wikipedia.org/wiki/Spanish_colonization_attempt_of_the_Strait_of_Magellan?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Spanish_colonization_attempt_of_the_Strait_of_Magellan"
+                        }
+                    },
+                    "extract": "In the late 16th century, the Spanish Empire attempted to settle the Strait of Magellan with the aim of controlling the only known passage between the Atlantic and Pacific oceans at the time. The project was a direct response to Francis Drake's unexpected entry into the Pacific through the strait in 1578 and the subsequent havoc his men wreaked upon the Pacific coast of Spanish America. The colonization effort took the form of a naval expedition led by veteran explorer Pedro Sarmiento de Gamboa, which set sail from Cádiz in December 1581. The expedition established two short-lived settlements in the strait, Nombre de Jesús and Ciudad del Rey Don Felipe. However, the settlers proved poorly prepared for the cool and windy environment of the strait, and starvation and disease was soon rampant. A resupply expedition organized by Sarmiento in Rio de Janeiro in 1585 was unable to reach the strait due to unfavorable weather. Aid to the struggling colony was later hampered by Sarmiento falling prisoner to English corsairs in 1586 and the unresponsivity of King Philip II, likely due to the strain of Spain's resources caused by the wars with England and Dutch rebels. The last known survivor was rescued by a passing ship in 1590.",
+                    "extract_html": "<p>In the late 16th century, the Spanish Empire attempted to settle the Strait of Magellan with the aim of controlling the only known passage between the Atlantic and Pacific oceans at the time. The project was a direct response to Francis Drake's unexpected entry into the Pacific through the strait in 1578 and the subsequent havoc his men wreaked upon the Pacific coast of Spanish America. The colonization effort took the form of a naval expedition led by veteran explorer Pedro Sarmiento de Gamboa, which set sail from Cádiz in December 1581. The expedition established two short-lived settlements in the strait, Nombre de Jesús and Ciudad del Rey Don Felipe. However, the settlers proved poorly prepared for the cool and windy environment of the strait, and starvation and disease was soon rampant. A resupply expedition organized by Sarmiento in Rio de Janeiro in 1585 was unable to reach the strait due to unfavorable weather. Aid to the struggling colony was later hampered by Sarmiento falling prisoner to English corsairs in 1586 and the unresponsivity of King Philip II, likely due to the strain of Spain's resources caused by the wars with England and Dutch rebels. The last known survivor was rescued by a passing ship in 1590.</p>",
+                    "normalizedtitle": "Spanish colonization attempt of the Strait of Magellan"
+                },
+                {
+                    "type": "standard",
+                    "title": "Strait_of_Magellan",
+                    "displaytitle": "<span class=\"mw-page-title-main\">Strait of Magellan</span>",
+                    "namespace": {
+                        "id": 0,
+                        "text": ""
+                    },
+                    "wikibase_item": "Q48365",
+                    "titles": {
+                        "canonical": "Strait_of_Magellan",
+                        "normalized": "Strait of Magellan",
+                        "display": "<span class=\"mw-page-title-main\">Strait of Magellan</span>"
+                    },
+                    "pageid": 299035,
+                    "thumbnail": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/StraitOfMagellan.jpg/320px-StraitOfMagellan.jpg",
+                        "width": 320,
+                        "height": 416
+                    },
+                    "originalimage": {
+                        "source": "https://upload.wikimedia.org/wikipedia/commons/0/05/StraitOfMagellan.jpg",
+                        "width": 2000,
+                        "height": 2600
+                    },
+                    "lang": "en",
+                    "dir": "ltr",
+                    "revision": "1275289684",
+                    "tid": "91f31896-e8f6-11ef-a118-a8f90d3fcb33",
+                    "timestamp": "2025-02-12T04:05:18Z",
+                    "description": "Strait in southern Chile between the Atlantic and Pacific",
+                    "description_source": "local",
+                    "coordinates": {
+                        "lat": -54,
+                        "lon": -71
+                    },
+                    "content_urls": {
+                        "desktop": {
+                            "page": "https://en.wikipedia.org/wiki/Strait_of_Magellan",
+                            "revisions": "https://en.wikipedia.org/wiki/Strait_of_Magellan?action=history",
+                            "edit": "https://en.wikipedia.org/wiki/Strait_of_Magellan?action=edit",
+                            "talk": "https://en.wikipedia.org/wiki/Talk:Strait_of_Magellan"
+                        },
+                        "mobile": {
+                            "page": "https://en.m.wikipedia.org/wiki/Strait_of_Magellan",
+                            "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Strait_of_Magellan",
+                            "edit": "https://en.m.wikipedia.org/wiki/Strait_of_Magellan?action=edit",
+                            "talk": "https://en.m.wikipedia.org/wiki/Talk:Strait_of_Magellan"
+                        }
+                    },
+                    "extract": "The Strait of Magellan, also called the Straits of Magellan, is a navigable sea route in southern Chile separating mainland South America to the north and the Tierra del Fuego archipelago to the south. The strait is considered the most important natural passage between the Atlantic and Pacific oceans. The strait is approximately 570 km long and 2 km wide at its narrowest point. In 1520, the Spanish expedition of the Portuguese navigator Ferdinand Magellan, after whom the strait is named, became the first Europeans to discover it.",
+                    "extract_html": "<p>The <b>Strait of Magellan</b>, also called the <b>Straits of Magellan</b>, is a navigable sea route in southern Chile separating mainland South America to the north and the Tierra del Fuego archipelago to the south. The strait is considered the most important natural passage between the Atlantic and Pacific oceans. The strait is approximately 570 km long and 2 km wide at its narrowest point. In 1520, the Spanish expedition of the Portuguese navigator Ferdinand Magellan, after whom the strait is named, became the first Europeans to discover it.</p>",
+                    "normalizedtitle": "Strait of Magellan"
+                }
+            ],
+            "year": 1584
+        }
+    ]
+}

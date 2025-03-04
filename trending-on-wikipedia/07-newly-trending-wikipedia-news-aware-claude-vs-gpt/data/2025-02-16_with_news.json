@@ -1,0 +1,278 @@
+[
+    {
+        "title": "Omar_Marmoush",
+        "summary": "Based on the article, Omar Marmoush is an Egyptian professional footballer who recently joined Manchester City in 2025 after successful stints with several German clubs including VfL Wolfsburg and Eintracht Frankfurt. His career trajectory shows steady progression from Egyptian club Wadi Degla through various German teams, culminating in his current role as a forward for Manchester City and the Egyptian national team.",
+        "normalized_title": "Omar Marmoush",
+        "views": 151704,
+        "link": "https://en.wikipedia.org/wiki/Omar_Marmoush",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/OmarMarmoush.png/320px-OmarMarmoush.png",
+        "extract": "<p><b>Omar Khaled Mohamed Marmoush</b> is an Egyptian professional footballer who plays as a forward for Premier League club Manchester City and the Egypt national team.</p>",
+        "anthropic_trending_reason": "Omar Marmoush is trending because he scored a remarkable first-half hat-trick in Manchester City's dominant 4-0 victory over Newcastle United at the Etihad Stadium. The Egyptian forward's exceptional performance helped Manchester City look like their formidable selves again under Pep Guardiola, with his three goals coming in quick succession to give City a commanding 3-0 lead before halftime.",
+        "openai_trending_reason": "Omar_Marmoush is trending because of his recent performance and signing with Manchester City, generating buzz among fans and analysts alike. His involvement with the Egypt national team has also captured attention, especially leading up to upcoming international fixtures.",
+        "view_history": [
+            {
+                "date": "2025-02-11Z",
+                "views": 7142
+            },
+            {
+                "date": "2025-02-12Z",
+                "views": 3672
+            },
+            {
+                "date": "2025-02-13Z",
+                "views": 2247
+            },
+            {
+                "date": "2025-02-14Z",
+                "views": 1987
+            },
+            {
+                "date": "2025-02-15Z",
+                "views": 151704
+            }
+        ],
+        "is_newly_trending": true,
+        "raw_new_results": {
+            "searchParameters": {
+                "q": "Omar Marmoush",
+                "type": "news",
+                "tbs": "qdr:w",
+                "engine": "google"
+            },
+            "news": [
+                {
+                    "title": "Manchester City’s Omar Marmoush: Inside the Cairo club that formed him - The Athletic",
+                    "link": "https://www.nytimes.com/athletic/6118542/2025/02/15/making-of-omar-marmoush-man-city/",
+                    "snippet": "The Champions League anthem was playing and Omar Marmoush was lined up, stood straight, ready to prove himself one of the world's elite footballers.",
+                    "date": "3 days ago",
+                    "source": "The New York Times",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJSRLxAdN203vj5uCzFUxQ03ObZ8BgGMN0JdMQH5rLAxGFliwRQAHZevk&usqp=CAI&s",
+                    "position": 1
+                },
+                {
+                    "title": "Can Marmoush save Man City's season? Maybe, but City have made it harder than necessary",
+                    "link": "https://www.espn.com/soccer/story/_/id/43858450/marmoush-hat-trick-shows-man-city-were-missing-newcastle",
+                    "snippet": "Omar Marmoush is exactly what Manchester City needed. Unfortunately, they waited way too long to get him into the mix. Can he save their Champions League,...",
+                    "date": "3 days ago",
+                    "source": "ESPN",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY_IxbNtKuW4Cm6gcvXkcvk-P-SFzAOyhaIXkQ9y789NQKsk1YowLq4OI&usqp=CAI&s",
+                    "position": 2
+                },
+                {
+                    "title": "Marmoush completes hat-trick against Newcastle",
+                    "link": "https://www.nbcsports.com/watch/soccer/premier-league/omar-marmoush-completes-hat-trick-to-give-man-city-3-0-lead-over-newcastle",
+                    "snippet": "It's a first-half hat-trick for Omar Marmoush as he gives Manchester City a commanding 3-0 lead against Newcastle at the Etihad.",
+                    "date": "3 days ago",
+                    "source": "NBC Sports",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGf995by8pt5HwvsCf5SgosDwYLkG5md9cVj-Hn_n4DLxviZUy8ZZTDfU&usqp=CAI&s",
+                    "position": 3
+                },
+                {
+                    "title": "Hat-trick scorer Marmoush and Gonzalez make Man City look like old self again",
+                    "link": "https://apnews.com/article/marmoush-man-city-gonzales-guardiola-b28e4e5cb0ce23dcc7a3f396d8614770",
+                    "snippet": "Manchester City's new signings have Pep Guardiola's team looking like its old self again. Omar Marmoush netted a first-half hat trick in a 4-0 win over...",
+                    "date": "3 days ago",
+                    "source": "AP News",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdNfn3wgOcFw5y66KuKO6mCROJvDzczLvB2FlBtJYRIiQIHXO25jPAsV4&usqp=CAI&s",
+                    "position": 4
+                },
+                {
+                    "title": "Manchester City 4–0 Newcastle United: Player Ratings From Omar Marmoush's Masterclass at the Etihad",
+                    "link": "https://www.si.com/soccer/manchester-city-4-0-newcastle-united-player-ratings-premier-league-2-15-25",
+                    "snippet": "Omar Marmoush's first half hat trick lifted Manchester City to a comfortable victory against Newcastle United.",
+                    "date": "3 days ago",
+                    "source": "Sports Illustrated",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI0LWSk0k5JKjeoiQ1JRZynB94YbUMqsB6z3bRWEY-XsKrMKjswzE-wRs&usqp=CAI&s",
+                    "position": 5
+                },
+                {
+                    "title": "Omar Marmoush: How Egyptian striker can pick up Man City's goalscoring slack",
+                    "link": "https://www.bbc.com/sport/football/articles/c8j84wyp82xo",
+                    "snippet": "There is not much Erling Haaland has failed to do when it comes to scoring goals since he joined Manchester City, although none of his 11 hat-tricks have...",
+                    "date": "3 days ago",
+                    "source": "BBC",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwqetw6xzk08LJXb96BQiO67LUPB8woC6XKTJpXyNos4yJ5UeaYl4hY9I&usqp=CAI&s",
+                    "position": 6
+                },
+                {
+                    "title": "Man City v Newcastle LIVE: Result as Erling Haaland injury blots win after Omar Marmoush hat-trick",
+                    "link": "https://sports.yahoo.com/man-city-v-newcastle-live-123531907.html",
+                    "snippet": "Manchester City pulled away from Newcastle United in the Premier League after a sensational first-half hat-trick by January signing Omar Marmoush.",
+                    "date": "3 days ago",
+                    "source": "Yahoo Sports",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4J4QB0HuWBSReh37w6l-KNBMVfpitFCgx_IsLv4AcBVRfE_xmJYy8wGM&usqp=CAI&s",
+                    "position": 7
+                },
+                {
+                    "title": "Omar Marmoush, made in the Bundesliga",
+                    "link": "https://www.bundesliga.com/en/bundesliga/news/omar-marmoush-eintracht-frankfurt-egypt-egyptian-king-mo-salah-eagles-29605",
+                    "snippet": "Omar Marmoush has left the Bundesliga behind to sign for Manchester City in the Premier League. The Egyptian will be hoping to have a similar impact in...",
+                    "date": "4 days ago",
+                    "source": "Bundesliga | official website",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbOGi6x3QK5ui9r70AzBUKWr-s5BO-4BrlgSnmqzGpWjWO5vZy5un_jX0&usqp=CAI&s",
+                    "position": 8
+                },
+                {
+                    "title": "Manchester City hat-trick hero Omar Marmoush reacts to 'amazing' win against Newcastle",
+                    "link": "https://www.dazn.com/en-US/news/soccer/manchester-city-hat-trick-hero-omar-marmoush-reacts-to-amazing-win-against-newcastle/2dav1yepq6jc1h4sodd4yu0kp",
+                    "snippet": "Omar Marmoush's first three goals for Manchester City powered the club to a 4-0 victory over vsiting Newcastle United on Saturday. Marmoush's ...",
+                    "date": "3 days ago",
+                    "source": "DAZN",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWt7YcJvfl7Xrn5CmIz03eWP7VJ56nMx848ookSwyKS3FTlrO_TQM7w-0&usqp=CAI&s",
+                    "position": 9
+                },
+                {
+                    "title": "'I had some contacts in Germany' - Pep Guardiola explains how Man City landed £59m Omar Marmoush following first hat-trick since transfer from Eintracht Frankfurt",
+                    "link": "https://www.goal.com/en-us/lists/contacts-germany-pep-guardiola-explains-how-man-city-landed-59m-omar-marmoush-hat-trick-transfer-eintracht-frankfurt/blt06ac0e7f50d5d83b",
+                    "snippet": "Pep Guardiola has explained how his \"contacts in Germany\" helped Manchester City to complete a £59m ($74m) transfer for hat-trick hero Omar Marmoush.",
+                    "date": "2 days ago",
+                    "source": "Goal.com",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVxzNiOTQL4ohOrELvdQy1OxiFDbQPJ4coaXggInSDLAqJ6xz_npC7A8Q&usqp=CAI&s",
+                    "position": 10
+                }
+            ],
+            "credits": 1
+        },
+        "anthropic_news_relation": "Recently scored a hat-trick in Manchester City's 4-0 win over Newcastle United\n<br>\n<ul>\n<li><a href=\"https://www.nbcsports.com/watch/soccer/premier-league/omar-marmoush-completes-hat-trick-to-give-man-city-3-0-lead-over-newcastle\">Marmoush completes hat-trick against Newcastle</a> It's a first-half hat-trick for Omar Marmoush as he gives Manchester City a commanding 3-0 lead against Newcastle at the Etihad.</li>\n<li><a href=\"https://apnews.com/article/marmoush-man-city-gonzales-guardiola-b28e4e5cb0ce23dcc7a3f396d8614770\">Hat-trick scorer Marmoush and Gonzalez make Man City look like old self again</a> Manchester City's new signings have Pep Guardiola's team looking like its old self again. Omar Marmoush netted a first-half hat trick in a 4-0 win over...</li>\n<li><a href=\"https://www.si.com/soccer/manchester-city-4-0-newcastle-united-player-ratings-premier-league-2-15-25\">Manchester City 4–0 Newcastle United: Player Ratings From Omar Marmoush's Masterclass at the Etihad</a> Omar Marmoush's first half hat trick lifted Manchester City to a comfortable victory against Newcastle United.</li>\n</ul>",
+        "openai_news_relation": "",
+        "text": "{{short description|Egyptian footballer (born 1999)}}\n{{Use dmy dates|date=January 2025}}\n{{Infobox football biography\n| name = Omar Marmoush\n| image = OmarMarmoush.png\n| caption = Marmoush in 2024\n| full_name = Omar Khaled Mohamed Marmoush<ref>{{cite web |url=http://www.cafonline.com/Portals/0/TOTAL%20Zambia%20u20%202017/New%20Squad%20List%20U-20.pdf |title=Total U-20 Africa Cup of Nations Zambia 2017: Egypt |publisher=CAF |page=2 |archive-url=https://web.archive.org/web/20170312034522/http://www.cafonline.com/Portals/0/TOTAL%20Zambia%20u20%202017/New%20Squad%20List%20U-20.pdf |archive-date=12 March 2017}}</ref>\n| birth_date = {{birth date and age|1999|2|7|df=y}}<ref name=\"PremProfile\">{{cite web |url=https://www.premierleague.com/players/76216/Omar-Marmoush/overview |title=Omar Marmoush: Overview |publisher=Premier League |access-date=18 February 2025}}</ref>\n| birth_place = [[Cairo]], Egypt\n| height = 1.83 m<ref name=\"PremProfile\"/>\n| position = [[Forward (association football)|Forward]]\n| currentclub = [[Manchester City F.C.|Manchester City]]\n| clubnumber = 7\n| youthyears1 = {{0|0000}}–2016\n| youthclubs1 = [[Wadi Degla SC|Wadi Degla]]\n| years1 = 2016–2017\n| clubs1 = [[Wadi Degla SC|Wadi Degla]]\n| caps1 = 16\n| goals1 = 2\n| years2 = 2017–2020\n| clubs2 = [[VfL Wolfsburg II]]\n| caps2 = 36\n| goals2 = 11\n| years3 = 2020–2023\n| clubs3 = [[VfL Wolfsburg]]\n| caps3 = 41\n| goals3 = 5\n| years4 = 2021\n| clubs4 = → [[FC St. Pauli]] (loan)\n| caps4 = 21\n| goals4 = 7\n| years5 = 2021–2022\n| clubs5 = → [[VfB Stuttgart]] (loan)\n| caps5 = 21\n| goals5 = 3\n| years6 = 2023–2025\n| clubs6 = [[Eintracht Frankfurt]]\n| caps6 = 46\n| goals6 = 27\n| years7 = 2025–\n| clubs7 = [[Manchester City F.C.|Manchester City]]\n| caps7 = 3\n| goals7 = 3\n| nationalyears1 = 2017\n| nationalteam1 = [[Egypt national under-20 football team|Egypt U20]]\n| nationalcaps1 = 2\n| nationalgoals1 = 0\n| nationalyears2 = 2019\n| nationalteam2 = [[Egypt national under-23 football team|Egypt U23]]\n| nationalcaps2 = 4\n| nationalgoals2 = 0\n| nationalyears3 = 2021–\n| nationalteam3 = [[Egypt national football team|Egypt]]\n| nationalcaps3 = 35\n| nationalgoals3 = 6\n| club-update = 16:58, 15 February 2025 (UTC)\n| nationalteam-update = 19 November 2024\n| medaltemplates = {{MedalCountry|{{fb|EGY}}}}\n{{MedalSport|Men's [[association football|football]]}}\n{{Medal|Competition|[[Africa Cup of Nations]]}}\n{{Medal|RU|[[2021 Africa Cup of Nations|2021]]|}}\n}}\n'''Omar Khaled Mohamed Marmoush''' ({{langx|ar|عمر خالد محمد مرموش}};<ref>{{cite web |url=https://www.masress.com/youm7/5614439 |title=الثامنة يا أبطال.. عمر مرموش الموهبة الصاعدة فى كتيبة |trans-title=Eighth, O heroes.. Omar Marmoush, the rising talent in the battalion |website=Masress |date=11 January 2022 |access-date=18 February 2025 |language=ar}}</ref> born 7 February 1999) is an Egyptian professional [[Association football|footballer]] who plays as a [[Forward (association football)|forward]] for {{English football updater|ManchesC}} club [[Manchester City F.C.|Manchester City]] and the [[Egypt national football team|Egypt national team]].\n\n==Club career==\n===Wadi Degla===\nMarmoush made his professional debut for [[Wadi Degla SC|Wadi Degla]] in the [[Egyptian Premier League]] on 8 July 2016, coming on as a substitute in the match against [[Al Ittihad Alexandria Club]], which finished as a 3–2 win. In total, he made sixteen league appearances for Wadi Degla and scored two goals, before moving to [[VfL Wolfsburg II]] in 2017.<ref name=\"Wadi\">{{cite news |last=Al-Awadi |first=Hani |url=https://www.filgoal.com/articles/361300 |title=حوار في الجول – عمر مرموش يوضح لماذا فضل فولفسبورج على دورتموند.. وكيف تألق مع دجلة |trans-title=Conversation with FilGoal – Omar Marmoush explains why he favoured Wolfsburg over Dortmund... and how he starred with Degla |website=FilGoal.com |date=11 April 2019 |access-date=16 May 2020 |language=ar}}</ref>\n\n=== VfL Wolfsburg===\nOn 26 May 2020, Marmoush made his professional debut for Wolfsburg in their 4–1 [[Bundesliga]] win over [[Bayer 04 Leverkusen|Bayer Leverkusen]] at the [[BayArena]]. Marmoush signed his first professional contract for the club on 23 June. On 5 August 2020, he made his European debut in a 3–0 defeat (5–1 aggregate) against [[FC Shakhtar Donetsk|Shakhtar Donetsk]] in the [[UEFA Europa League]] round of 16. Marmoush returned to Wolfsburg after his breakthrough Bundesliga season with Stuttgart.{{citation needed|date=February 2025}}\n\nOn 5 January 2021, Marmoush was loaned to [[FC St. Pauli]] for the remainder of the season.<ref>{{cite news|url=https://www.vfl-wolfsburg.de/en/news-detail/news-detail/detail/news/loaned-to-st-pauli/|title=Loaned to St. Pauli|publisher=VfL Wolfsburg|date=5 January 2021|access-date=5 January 2021}}</ref> He played 21 games and scored seven goals for the club.{{citation needed|date=February 2025}}\n\nOn 30 August 2021, Marmoush was loaned out to [[VfB Stuttgart]] until the end of the season.<ref>{{cite web|url=https://www.vfb.de/en/vfb/latest/news/profes"
+    },
+    {
+        "title": "Samantha_Barks",
+        "summary": "This article is about Samantha Barks, a Manx actress and singer born in 1990, who gained fame after placing third in BBC's \"I'd Do Anything\" in 2008. She is notably known for her role as Éponine in the 2012 film \"Les Misérables,\" has appeared in various stage productions including \"Pretty Woman: The Musical\" and \"Frozen\" in London's West End, and has released three studio albums throughout her career.",
+        "normalized_title": "Samantha Barks",
+        "views": 139452,
+        "link": "https://en.wikipedia.org/wiki/Samantha_Barks",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/94/Samantha_Barks_-_Fendi.jpg",
+        "extract": "<p><b>Samantha Jane Barks</b> is a Manx actress and singer who rose to fame after placing third in the BBC talent show-themed television series <i>I'd Do Anything</i> in 2008. She has released three studio albums: <i>Looking in Your Eyes</i> (2007), <i>Samantha Barks</i> (2016), and <i>Into the Unknown</i> (2021).</p>",
+        "anthropic_trending_reason": "Samantha Barks is trending because she was recently crowned the winner of The Masked Singer UK 2025, where she performed as the character Pufferfish. The West End and screen actress's victory has generated additional buzz as she's set to perform a solo concert at the prestigious London Palladium in April, though her win has apparently sparked some backlash that she's had to address on social media.",
+        "openai_trending_reason": "Samantha Barks is trending because of the recent release of her latest album, *Into the Unknown*, which has garnered significant attention from fans and music critics alike. Additionally, her popularity is fueled by her participation in various promotional events and interviews that showcase her talent and career achievements.",
+        "view_history": [
+            {
+                "date": "2025-02-11Z",
+                "views": 1199
+            },
+            {
+                "date": "2025-02-12Z",
+                "views": 850
+            },
+            {
+                "date": "2025-02-13Z",
+                "views": 768
+            },
+            {
+                "date": "2025-02-14Z",
+                "views": 912
+            },
+            {
+                "date": "2025-02-15Z",
+                "views": 139452
+            }
+        ],
+        "is_newly_trending": true,
+        "raw_new_results": {
+            "searchParameters": {
+                "q": "Samantha Barks",
+                "type": "news",
+                "tbs": "qdr:w",
+                "engine": "google"
+            },
+            "news": [
+                {
+                    "title": "Samantha Barks Will Play the London Palladium",
+                    "link": "https://playbill.com/article/samantha-barks-will-play-the-london-palladium",
+                    "snippet": "Stage and screen star Samantha Barks will perform in concert at the London Palladium April 5. Barks, whose recent credits include Elsa in the London debut...",
+                    "date": "9 hours ago",
+                    "source": "Playbill",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoYgm2qim4VqZ3aky05_4goT3VbnH8xh_1xJIaR8obfQQnTY4iIGgTuHc&usqp=CAI&s",
+                    "position": 1
+                },
+                {
+                    "title": "Samantha Barks breaks silence amid backlash to ITV The Masked Singer victory as she issues statement",
+                    "link": "https://www.gbnews.com/celebrity/samantha-barks-itv-masked-singer-victory-backlash-pufferfish-instagram",
+                    "snippet": "West End star Samantha Barks has spoken out on social media for the first time since she was crowned winner of The Masked Singer UK 2025.",
+                    "date": "1 day ago",
+                    "source": "GB News",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHXycCUm9FfUb8SDICrKZ0P65MsVbcO04lpz6HOkd7u1v82IaKxJmok7U&usqp=CAI&s",
+                    "position": 2
+                },
+                {
+                    "title": "Samantha Barks to perform solo concert at The London Palladium",
+                    "link": "https://www.whatsonstage.com/news/samantha-barks-to-perform-solo-concert-at-the-london-palladium_1665234/",
+                    "snippet": "Hot on the sparkly heels of winning The Masked Singer… Alex Wood. | London |. 16 February 2025. Samantha Barks, © Michael Wharley. Exclusive: Samantha Barks...",
+                    "date": "1 day ago",
+                    "source": "WhatsOnStage",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr9gz3Lq9YcmIWzIYqJbk_H8YEk6ZUh9jd2iLaDyNaDZbknV_xOaJsLAM&usqp=CAI&s",
+                    "position": 3
+                },
+                {
+                    "title": "The Masked Singer: Samantha Barks is revealed the winner",
+                    "link": "https://uk.news.yahoo.com/masked-singer-samantha-barks-revealed-221326911.html",
+                    "snippet": "The Masked Singer: Samantha Barks is revealed the winner as Pufferfish.",
+                    "date": "3 days ago",
+                    "source": "Yahoo News UK",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9BIpW72VcYFO9hyDaHOJcWqYehUdbtDsUv9PhHgto-zYdFKTlewte3Zg&usqp=CAI&s",
+                    "position": 4
+                },
+                {
+                    "title": "Samantha Barks facts: Musical theatre star's age, career, husband and kids revealed",
+                    "link": "https://www.heart.co.uk/showbiz/samantha-barks-facts-age-career-husband-kids-revealed/",
+                    "snippet": "The musical theatre star's career began on a BBC talent show – now she's one of the West End's hottest talents.",
+                    "date": "4 days ago",
+                    "source": "Heart Radio",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4EO9KiS2xPXO6Rj_m-VWzDjBGmngG_4jLga8r723h2ICiZRX0MLZpiWU&usqp=CAI&s",
+                    "position": 5
+                },
+                {
+                    "title": "Who won the Masked Singer? Pufferfish is crowned WINNER and identity is revealed as Samantha Barks after beati",
+                    "link": "https://www.dailymail.co.uk/tv/article-14401685/masked-singer-won-winner-pufferfish-Samantha-barks.html",
+                    "snippet": "Pufferfish has been announced as the winner of The Masked Singer 2025 following a a nail-biting final on Saturday night.",
+                    "date": "3 days ago",
+                    "source": "Daily Mail",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPM2KtWeQa87J82TT1erX_4EeSqS5kgnSQdE8MmQ52X6zQwnQHz9Odkzg&usqp=CAI&s",
+                    "position": 6
+                },
+                {
+                    "title": "Inside Samantha Barks' marriage to famous husband - from Broadway to fairytale wedding",
+                    "link": "https://www.mirror.co.uk/3am/celebrity-news/inside-samantha-barks-marriage-famous-34688527",
+                    "snippet": "Samantha Barks was crowned the winner of The Masked Singer last night after she revealed she was behind the pufferfish mask. But who is the talented star...",
+                    "date": "2 days ago",
+                    "source": "The Mirror",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMYCU0geuPqOiHgaR4RjBI-8GrJYHxFyBqHrH91l-5mNiZIJZOPVWFntY&usqp=CAI&s",
+                    "position": 7
+                },
+                {
+                    "title": "Samantha Barks",
+                    "link": "https://www.westendtheatre.com/113383/star-watch/samantha-barks/",
+                    "snippet": "Samantha Barks recently starred as Elsa in Disney's Frozen The Musical at the Theatre Royal Drury Lane. A filmed version of the London production of Frozen is...",
+                    "date": "3 days ago",
+                    "source": "West End Theatre",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLWjt6B-3CIpEFOIDqz7MW4igfFJmdDoPa1qeB98Mjeuh_rC2PPbEB85M&usqp=CAI&s",
+                    "position": 8
+                },
+                {
+                    "title": "The Masked Singer fans claim one of the stars was ‘robbed’ as real winner announced",
+                    "link": "https://www.hellomagazine.com/film/814501/the-masked-singer-fans-claim-stars-robbed-real-winner-announced/",
+                    "snippet": "The Masked Singer has crowned its latest champion, but fans claim one finalist was 'robbed' after a surprising result.",
+                    "date": "2 days ago",
+                    "source": "HELLO!",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXlRvXbFvZN-__U58dlWFW_MgX5_uaD4iySal42NWybR_CHJd84JZskwI&usqp=CAI&s",
+                    "position": 9
+                },
+                {
+                    "title": "Masked Singer viewers have major issue with show final as winner is revealed as West End star...",
+                    "link": "https://www.thesun.co.uk/tvandshowbiz/33400082/masked-singer-final-pufferfish-major-issue-samantha-barks-winner/",
+                    "snippet": "THE Masked Singer viewers were left baffled tonight as winner Pufferfish finally removed her mask.Fans of theITVguessing game were stunned.",
+                    "date": "3 days ago",
+                    "source": "The Sun",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXB5eBBSTEEONOPCKuLD_FzJIG3zcZXjsRQdQkwVZpSoR6AT0kgxZXBLk&usqp=CAI&s",
+                    "position": 10
+                }
+            ],
+            "credits": 1
+        },
+        "anthropic_news_relation": "Samantha Barks won The Masked Singer UK 2025 as Pufferfish and will perform a solo concert at London Palladium in April\n<br>\n<ul>\n<li><a href=\"https://playbill.com/article/samantha-barks-will-play-the-london-palladium\">Samantha Barks Will Play the London Palladium</a> Stage and screen star Samantha Barks will perform in concert at the London Palladium April 5.</li>\n<li><a href=\"https://www.gbnews.com/celebrity/samantha-barks-itv-masked-singer-victory-backlash-pufferfish-instagram\">Samantha Barks breaks silence amid backlash to ITV The Masked Singer victory</a> West End star Samantha Barks has spoken out on social media for the first time since she was crowned winner of The Masked Singer UK 2025.</li>\n<li><a href=\"https://uk.news.yahoo.com/masked-singer-samantha-barks-revealed-221326911.html\">The Masked Singer: Samantha Barks is revealed the winner</a> The Masked Singer: Samantha Barks is revealed the winner as Pufferfish.</li>\n</ul>",
+        "openai_news_relation": "",
+        "text": "{{short description|Manx actress and singer (born 1990)}}\n{{pp-pc}}\n{{Use dmy dates|date=July 2019}}\n{{Use British English|date=October 2013}}\n{{Infobox person\n| name               = Samantha Barks\n| image              = Samantha Barks - Fendi.jpg\n| caption            = Barks in 2014\n| birth_name         = Samantha Jane Barks\n| birth_date         = {{Birth date and age|df=yes|1990|10|02}}<ref>{{cite web|url=http://us.hellomagazine.com/film/2014100221216/horoscopes-samantha-barks-starsigns/|title=Happy birthday, Samantha Barks!|date=2 October 2014|website=[[Hellomagazine.com]]}}</ref>\n| birth_place        = [[Laxey]], [[Isle of Man]]\n| occupation         = {{Hlist|Actress|singer}}\n| yearsactive        = 2007–present\n| spouse             = {{marriage|Alex Michael Stoll|2022}}\n| children           = 1\n| website            = {{URL|www.samanthabarks.global}}\n}}\n\n'''Samantha Jane Barks''' (born 2 October 1990) is a [[Manx people|Manx]] actress and singer who rose to fame after placing third in the [[BBC]] [[talent show]]-themed television series ''[[I'd Do Anything (BBC TV series)|I'd Do Anything]]'' in 2008.<ref name=\"BBC-NANCYSSAMANTHA\">{{cite news|title=Nancy Contestants&nbsp;– Samantha|publisher=BBC|date=22 March 2008|url=http://www.bbc.co.uk/oliver/contestants/nancy/samantha.shtml |access-date=10 May 2008}}</ref> She has released three [[Album|studio albums]]: ''Looking in Your Eyes'' (2007), ''Samantha Barks'' (2016), and ''Into the Unknown'' (2021).\n\nBarks made her film debut as [[Éponine]] in the [[Tom Hooper]]-directed ''[[Les Misérables (2012 film)|Les Misérables]]'' in 2012.<ref name=\"r1\" /> Her performance in the film won her the [[Empire Award for Best Newcomer|Empire Award for Best Female Newcomer]] and a shared [[National Board of Review Award for Best Cast|National Board of Review Award]] with the film's cast.<ref>{{cite web |title=Awards of Samantha Barks |url=https://www.imdb.com/name/nm2885819/awards |access-date=26 May 2013 |website=[[IMDb]]}}</ref> She starred opposite [[Jonathan Bailey]] in the [[Disney Channel]] musical-comedy ''[[Groove High]]'' (2012–2013) and again, in the London revival of the musical ''[[The Last Five Years]]'' in 2016.<ref name=\"blogspot1\">{{Cite news |date=29 October 2012 |title=Disney Channel UK To Premiere New Series \"Groove High\" November 2012 |work=DisneyChannelEars |url=http://disneychannelears.blogspot.com/2012/10/disney-channel-uk-to-premiere-new.html |access-date=8 December 2012}}</ref> In 2018, she originated the role of Vivian Ward in ''[[Pretty Woman: The Musical]]'' on Broadway. From 2021 to 2024, she has starred as [[Elsa (Frozen)|Elsa]] in the [[West End theatre|West End]] production of ''[[Frozen (musical)|Frozen]].''<ref>{{Cite news |last=Wiegand |first=Chris |last2= |first2= |date=2024-09-09 |title=Letting it go: Frozen fans bid farewell to West End musical |url=https://www.theguardian.com/stage/article/2024/sep/09/frozen-fans-bid-farewell-to-west-end-musical-samantha-barks |access-date=2025-02-08 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> In 2025, Barks won the [[The Masked Singer (British TV series) series 6|sixth series]] of ''[[The Masked Singer (British TV series)|The Masked Singer]]''.<ref name=\"tms\">{{Cite web |date=2025-02-15 |title=The Masked Singer UK crowns 2025 winner |url=https://www.digitalspy.com/tv/reality-tv/a63806290/masked-singer-uk-2025-winner/ |access-date=2025-02-15 |website=Digital Spy |language=en-GB}}</ref>\n\n==Early life==\nBarks was born and raised in [[Laxey]]<ref name=\"imot4095167\">{{cite news|title=Super Sam Barks' star is rising|publisher=[[Isle of Man Newspapers]]|date=19 May 2008|url=http://www.iomtoday.co.im/news/Super-Sam-Barks-star-is.4095167.jp|archive-url=https://archive.today/20130108053708/http://www.iomtoday.co.im/news/Super-Sam-Barks-star-is.4095167.jp|url-status=dead|archive-date=8 January 2013|access-date=22 May 2008}}</ref> on the [[Isle of Man]]. Her mother is from [[Malahide]], Ireland.<ref>{{Cite journal|url=https://independent.ie/lifestyle/i-beat-taylor-to-star-in-les-mis-28957241.html|title=I beat Taylor to star in 'Les Mis'!|journal=The Irish Independent|first=Deirdre|last=Reynolds|date=10 January 2013|accessdate=21 February 2023}}</ref> Barks attended Laxey Primary School and [[St Ninian's High School, Douglas]].<ref name=\"SNHS65\">{{cite news|title=Sam Barks update|publisher=St. Ninian's High School|date=30 April 2008|url=http://www.sch.im/snhs/index.php?option=com_content&task=view&id=65&Itemid=1|access-date=21 May 2008|archive-url=https://web.archive.org/web/20080603145912/http://www.sch.im/snhs/index.php?option=com_content&task=view&id=65&Itemid=1|archive-date=3 June 2008|url-status=dead}}</ref>\n\nWhen she was 16, Barks moved to London by herself to complete her [[Advanced Level (UK)|A levels]] at the [[Arts Educational School]] (ArtsEd) in [[Chiswick]]. Her first non-industry job was working at [[River Island]].<ref>{{Cite web |title=Frozen star Samantha Barks: 'Some people will lov"
+    }
+]

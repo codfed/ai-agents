@@ -110,3 +110,24 @@ Takeaways:
 What to iterate on
 
 - Remove LangChain memory
+
+## Newly Trending Wikipedia news aware claude vs gpt
+
+Started with two objectives:
+
+1. Remove the langchain dependency
+2. Update the wikipedia api call to their official feed api rather than their featured feed which was inconsistent.
+
+Got sidetracked and:
+
+- Converted to barebones calls to the OpenAI endpoint.
+- In the meantime, Claude 3.7 was released. Got curious and started calling Claude side by side with ChatGPT
+
+Takeaways:
+
+- Claude graciously handled results that couldn't be confirmed in a much more elegant way.
+- 4o-mini and 3.7-sonet are not exactly equal competitors, I'll be more fair in future comparisons
+
+What to iterate on:
+
+- Try out reasoning models
